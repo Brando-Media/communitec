@@ -1,0 +1,28 @@
+.zn_timeline_container { padding: 30px 0; overflow: hidden; position: relative;}
+.zn_timeline_container::before {content: ''; position: absolute; top: 0; left: 50%; margin-left: -2px; height: 100%; width: 4px; }
+
+/* MAIN BOX */
+.zn-timeline-block { position: relative; margin:50px 0; }
+.zn-timeline-block:first-child { margin: 0; }
+.zn-timeline-content {position: relative; border-radius: 5px; margin-left: 0; padding: 20px; width: 45%; }
+.zn-timeline-content h3 { font-size: 24px; line-height: 30px; }
+
+.zn-timeline-block:nth-child(even) .zn-timeline-content {float: right; }
+.zn-timeline-block:nth-child(even) .zn-timeline-content .zn-date {left: auto; right: 122%; text-align: right; }
+.zn-timeline-block:nth-child(even) .zn-timeline-content .btn { float:right; }
+/* BOX DATE */
+.zn-timeline-content .zn-date {position: absolute; width: 100%; left: 122%; top: 6px; font-size: 16px; display: inline-block; padding: 11px 0; }
+/* BOX IMAGE */
+.zn-timeline-img {position: absolute; top: 0; border-radius: 50%; box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05); width: 60px; height: 60px; left: 50%; margin-left: -30px; -webkit-transform: translateZ(0); -webkit-backface-visibility: hidden; } .zn-timeline-img > span {display: block; width: 24px; height: 24px; position: relative; left: 50%; top: 0; margin-left: -12px; font-size: 24px; line-height: 60px; }
+.zn-timeline-content .btn { padding: 11px 14px; font-weight: bold; margin-bottom: 0; }
+
+@media (max-width: 769px) {
+	.zn_timeline_container::before { left: 45px; }
+	.zn-timeline-content { margin-left: 75px; }
+	.zn-timeline-img {left: 40px; width: 40px; height: 40px;}
+	.zn-timeline-img > span { font-size: 16px; line-height: 40px; margin-left: -8px; }
+	.zn-timeline-content { width: auto; }
+	.zn-timeline-content .btn { float: right; font-size: 13px; }
+	.zn-timeline-content .zn-date { position: relative; float: left; left: auto; top: auto; width: auto; font-size: 14px; }
+	.zn-timeline-block:nth-child(even) .zn-timeline-content .zn-date { right: auto;  }
+}

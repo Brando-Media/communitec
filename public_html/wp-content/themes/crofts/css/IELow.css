@@ -1,0 +1,11 @@
+#container, ul.sf-menu > li {
+	 opacity: 1 !important;
+}
+
+.instag ul.thumbnails > li a { 
+	opacity: 1 !important;
+}
+
+#somedialog, .search-under {
+	display: none;
+}

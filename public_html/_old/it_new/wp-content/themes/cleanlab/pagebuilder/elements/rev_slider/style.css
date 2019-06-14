@@ -1,0 +1,17 @@
+/*.tp-leftarrow.default, .tp-rightarrow.default { z-index: 900 !important;  height: 75px; width: 75px; padding: 29px 33px; display: inline-block;  border-radius: 50%; display: block !important; opacity: 1 !important; background-position:center; -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; -ms-transition: all 0.5s ease; transition: all 0.5s ease;}
+.tp-leftarrow.default:hover, .tp-rightarrow.default:hover { -webkit-transform: scale(1.1) translateZ(0); -moz-transform: scale(1.1) translateZ(0); -o-transform: scale(1.1) translateZ(0); transform: scale(1.1) translateZ(0); }
+
+@media (max-width:767px) {
+    .tp-caption.bigText { left: 20px !important; }
+    .tp-caption.medium_text { left: 50px !important; }
+    .tp-caption.medium_text + .tp-caption { margin-top: -10px; left: 20px !important; }
+}
+
+@media (max-width:320px) {
+    .tp-leftarrow.default, .tp-rightarrow.default { width:60px; height:60px; left:auto !important; padding: 22px 26px;}
+    .tp-leftarrow.default { right: 65px; bottom: -10px !important; top: auto !important; }
+    .tp-rightarrow.default { right: 5px; bottom: 3px !important; top: auto !important; }
+
+    .tp-caption.medium_text { left: 30px !important; }
+    .tp-caption.medium_text a { font-size: 9px !important; }
+}*/

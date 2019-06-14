@@ -1,0 +1,4 @@
+[29-Jun-2016 11:55:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/communitecco/public_html/171991/wp-content/themes/photome/functions.php:2139) in /home/communitecco/public_html/171991/wp-content/themes/photome/templates/custom-css.php on line 7
+[21-Mar-2017 11:27:52 UTC] PHP Warning:  mysql_query(): MySQL server has gone away in /home/communitecco/public_html/av/wp-includes/wp-db.php on line 1870
+[21-Mar-2017 11:28:04 UTC] PHP Warning:  mysql_query(): Error reading result set's header in /home/communitecco/public_html/av/wp-includes/wp-db.php on line 1870
+[21-Mar-2017 11:28:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/communitecco/public_html/av/wp-includes/wp-db.php:1870) in /home/communitecco/public_html/av/wp-includes/functions.php on line 3637

@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule ^(.*)$ http://av.communitec.co/communitec-brochure/ [R=301,L]

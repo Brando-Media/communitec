@@ -1,0 +1,1 @@
+[30-Sep-2018 18:24:58 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/communitecco/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
