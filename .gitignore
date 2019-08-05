@@ -35,3 +35,4 @@ assets/styles/output.css.map
 *.sublime-project
 /tests/tests/
 /tests/results/
+public_html/av/wp-config.php
