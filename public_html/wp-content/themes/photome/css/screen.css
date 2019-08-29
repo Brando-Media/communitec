@@ -51,6 +51,13 @@ Sidebar heading:	14px 'Oswald','Helvetica Neue', Arial, Verdana, sans-serif
 11. Contact Form Captcha / #captcha-wrap
 12. Woocommerce Elements
 -------------------------------------------------------------------*/
+.social_wrapper{
+	z-index:-1;
+}
+
+.header_style_wrapper{
+	z-index: 100000002 !important;
+}
 
 body
 {

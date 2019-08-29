@@ -144,7 +144,7 @@ elseif(is_home())
 <div class="top_bar <?php if(!empty($pp_page_bg) && !empty($page_menu_transparent)) { ?>hasbg<?php } ?> <?php if(!empty($page_menu_transparent)) { ?>hasbg<?php } ?>">
     	
     	<!-- Begin logo -->
-    	<div id="logo_wrapper">
+    	<div id="logo_wrapper" style="z-index: -1;">
     	<?php
     		//Get Soical Icon
 			get_template_part("/templates/template-socials");
@@ -166,7 +166,7 @@ elseif(is_home())
 				if($pp_homepage_style == 'fullscreen')
 				{
 			?>
-			<div class="view_fullscreen_wrapper">
+			<div class="view_fullscreen_wrapper" style="z-index: -1;">
 				<a id="page_maximize" href="javascript:;"><i class="fa fa-expand"></i></a>
 				<a id="page_minimize" href="javascript:;"><i class="fa fa-compress"></i></a>
 			</div>
@@ -190,10 +190,10 @@ elseif(is_home())
 			}
 			?>
     	
-	    	<!-- Begin side menu -->
+			<!-- Begin side menu WHERE MOBILE_NAV_ICON USED TO BE-->
 			<a href="#" id="mobile_nav_icon"></a>
+
 			<!-- End side menu -->
-			
     	</div>
     	<!-- End right corner buttons -->
     	
@@ -360,8 +360,10 @@ elseif(is_home())
 	        	</div>
 	        </div>
 	        <!-- End main nav -->
-        </div>
-        
+		</div>
+		<!--<div>
+		<a href="#" id="mobile_nav_icon"></a>
+		</div>-->
 
         <?php
         	}
