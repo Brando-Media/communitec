@@ -88,6 +88,10 @@ position:relative;
     font-weight: bold;
     text-transform: lowercase;
     line-height: 15px !important;
+    pointer-events: visible; 
+}
+#cn-notice-text{
+    pointer-events:visible;
 }
 .cookie-notice-container {
     padding: 10px 20px;

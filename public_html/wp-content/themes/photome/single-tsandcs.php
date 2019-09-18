@@ -1,4 +1,8 @@
 <?php 
+/*
+ * Template Name: tsandcs
+ * Template Post Type: post, page, product
+ */
 $completed = get_field('what_we_done');
 $colour = get_field('header_colour');
 $title = get_field('title');
@@ -6,7 +10,7 @@ get_header();
 ?>
 <style>
 .accordiond {
-  background-color: #eee;
+  background-color: #eee; 
   color: #444;
   cursor: pointer;
   padding: 18px;
