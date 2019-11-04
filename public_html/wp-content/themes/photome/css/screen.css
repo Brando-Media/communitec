@@ -9952,6 +9952,22 @@ h1.product_title
 	}
 	.dl-speed-single{
 		max-height:70px!important;
+		min-height:70px!important;
+	}
+	.ultraimgtext{
+		padding-bottom:0px!important;
+	}
+	.linerental{
+		padding-bottom:10px;
+	}
+	.linemargintop{
+		padding-bottom:0px!important;
+	}
+	.broadbandimgtext{
+		padding-bottom:0px;
+	}
+	.fibreimgtext{
+		padding-bottom:0px;
 	}
 
 }
