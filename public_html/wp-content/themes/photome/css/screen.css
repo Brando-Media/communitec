@@ -9878,6 +9878,11 @@ h1.product_title
 	.margintop551496{
 	}
   }
+  @media (max-width: 699px){
+	.imgholder{
+		display:none;
+	}
+  }
   @media (max-width: 1403px){
 	.margintop551496{
 	}
