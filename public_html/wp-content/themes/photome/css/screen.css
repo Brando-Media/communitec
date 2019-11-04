@@ -9969,5 +9969,11 @@ h1.product_title
 	.fibreimgtext{
 		padding-bottom:0px;
 	}
+	.fibreimgtext{
+		padding-top:24px;
+	}
+	.pt24px{
+		padding-top:24px;
+	} 
 
 }
