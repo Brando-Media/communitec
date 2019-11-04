@@ -9849,6 +9849,7 @@ h1.product_title
 	.ultraimgtext{
 		max-width:300px;
 		margin: auto;
+		position: relative;
 	}
 	.broadbandimgtext{
 		max-width: 200px;
@@ -9878,11 +9879,6 @@ h1.product_title
 	.margintop551496{
 	}
   }
-  @media (max-width: 699px){
-	.imgholder{
-		display:none;
-	}
-  }
   @media (max-width: 1403px){
 	.margintop551496{
 	}
@@ -9899,4 +9895,63 @@ h1.product_title
 		float:left!important;
 		width:33.333333333333%;
 	}
+}
+@media (max-width: 699px){
+	.imgholder{
+		display:none;
+	}
+  }
+
+  .ultraimgtext:after{
+	/*position: absolute;
+    background: url(https://lorempixel.com/200/200/) no-repeat center/contain;
+    width: .5em;
+    height: .5em;
+    margin-left: .5em;
+    content: "";
+    top: .35em;*/
+}
+
+@media only screen and (max-width: 699px) {
+	.imgwidthsmall{
+		display: inline-flex;
+		height:23px;
+	}
+	.broadbandimgtext{
+		display:block;
+		font-size:22px!important;
+		padding:10px;
+	}
+	.fibreimgtext{
+		display:block;
+		font-size:22px!important;
+		padding:10px;
+	}
+	.ultraimgtext{
+		display:block;
+		font-size:22px!important;
+		padding:10px;
+	}
+	.broadband-col-md-4{
+		min-width:80vw;
+	}
+	.pricing{
+		min-height:auto!important;
+	} 
+}
+@media only screen and (min-width: 700px) {
+	.imgwidthsmall{
+		display:none;
+	}
+}
+
+@media only screen and (max-width: 699px) {
+	.dl-content{
+		padding-bottom:0px!important;;
+		padding-top:0px!important;
+	}
+	.dl-speed-single{
+		max-height:70px!important;
+	}
+
 }
