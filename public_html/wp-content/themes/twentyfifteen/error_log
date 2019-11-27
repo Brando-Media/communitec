@@ -16,3 +16,9 @@
 [05-Jun-2019 17:59:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/index.php on line 17
 [06-Jun-2019 01:18:55 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/content.php on line 13
 [07-Jun-2019 07:04:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[14-Jun-2019 12:32:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Jun-2019 03:05:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Jun-2019 06:19:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Jun-2019 06:19:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Jul-2019 08:16:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[20-Sep-2019 19:29:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfifteen/404.php on line 10

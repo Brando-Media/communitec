@@ -957,57 +957,38 @@
 <style>
 
 .frame_top, .frame_bottom, .frame_left, .frame_right { background: <?php echo esc_html($_GET['frame_color']); ?> !important; }
+.portfolio-links {
+        text-align: center;
+    }
 
+    .portfolio-links li {
+        display: inline-block;
+        text-transform: uppercase;
+        list-style: none;
+        cursor: pointer;
+        transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+    }
+
+    .portfolio-links li:nth-child(2) {
+        margin: 0 30px;
+    }
+
+    .portfolio-links li.active-link {
+        border-top: 1px solid #222222;
+        border-bottom: 1px solid #222222;
+        padding: 5px 0px;
+    }
+
+    .portfolio-links li:hover {
+        border-top: 1px solid #222222;
+        border-bottom: 1px solid #222222;
+        padding: 5px 0px;
+        transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+    }
 
 </style>
-
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc; 
-}
-
-.panel {
-  padding: 0 18px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-}
-
-
-<script>
-var acc = document.getElementsByClassName("accordiond");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-console.log("hello");
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-
-function accordiondClick(){
-	console.log("test");
-}
-</script>
-
 
 <?php
 
@@ -1035,7 +1016,13 @@ function accordiondClick(){
 
 
 
+
 <script type="text/javascript">
+
+function accordiondClick(){
+	console.log("tesst");
+}
+
 
 if(window.location.href.indexOf('/contact')!=-1)
 

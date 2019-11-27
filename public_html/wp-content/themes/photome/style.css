@@ -72,27 +72,22 @@ position:relative;
     z-index: 100000001 !important;
 	background-color: rgba(34, 34, 34,.8) !important;
 }
-#cn-accept-cookie {
-    background: transparent;
-    position: absolute;
-    padding: 0;
-    right: 5px;
-    top: 5px;
-    padding-left: 1px;
-    margin: 0 !important;
-    border: 1px solid #fff;
-    width: 20px;
-    height: 20px;
-    text-align: center;
-    border-radius: 50%;
-    font-weight: bold;
-    text-transform: lowercase;
-    line-height: 15px !important;
-    pointer-events: visible; 
-}
 #cn-notice-text{
     pointer-events:visible;
 }
+#cn-accept-cookie {
+    background: transparent;
+    right: 5px;
+    top: 5px;
+    border: 1px solid #fff;
+    height: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: lowercase;
+    line-height: 15px !important;
+    pointer-events: visible;
+}
+/*ak*/
 .cookie-notice-container {
     padding: 10px 20px;
 }
@@ -115,3 +110,33 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_W.jpg)
     width: 350px;
     height: 71.26px;
 }
+.portfolio-links {
+        text-align: center;
+    }
+
+    .portfolio-links li {
+        display: inline-block;
+        text-transform: uppercase;
+        list-style: none;
+        cursor: pointer;
+        transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+    }
+
+    .portfolio-links li:nth-child(2) {
+        margin: 0 30px;
+    }
+
+    .portfolio-links li.active-link {
+        border-top: 1px solid #222222;
+        border-bottom: 1px solid #222222;
+        padding: 5px 0px;
+    }
+
+    .portfolio-links li:hover {
+        border-top: 1px solid #222222;
+        border-bottom: 1px solid #222222;
+        padding: 5px 0px;
+        transition: all 0.5s ease-in-out;
+        -webkit-transition: all 0.5s ease-in-out;
+    }

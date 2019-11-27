@@ -34,7 +34,11 @@ $tg_menu_layout = tg_menu_layout();
 
 <html <?php language_attributes(); ?> <?php if(isset($pp_homepage_style) && !empty($pp_homepage_style)) { echo 'data-style="'.esc_attr($pp_homepage_style).'"'; } ?> data-menu="<?php echo esc_attr($tg_menu_layout); ?>">
 <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
+
+
 <head>
+<meta name="google-site-verification" content="xlGE8PB10JTjVSRfY8dvNEs-WBKVzZvbHSz7EIDVNLw" />
+
 
 <meta charset="<?php echo get_bloginfo( 'charset' ); ?>" />
 
@@ -186,25 +190,13 @@ if(is_single())
   ga('send', 'pageview');
 </script>
 <script type="text/javascript">
-(function(a,e,c,f,g,h,b,d){var k={ak:"878640358",cl:"kbxVCLCOiHEQ5vn7ogM",autoreplace:"+44 (0) 203 700 8585"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
-</script>
-<script>
-var acc = document.getElementsByClassName("accordiond");
-var i;
+(function(a,e,c,f,g,h,b,d){var k={ak:"878640358",cl:"kbxVCLCOiHEQ5vn7ogM",autoreplace:"+44 (0) 203 700 8585"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})
+(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
 
-for (i = 0; i < acc.length; i++) {
-console.log("accordion");
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
+
+
 </script>
+
 </head>
 
 
@@ -340,11 +332,11 @@ console.log("accordion");
 
     	    
 
-    	   <img src="<?php bloginfo('url') ?>/wp-content/uploads/2018/07/communitec-website-logo.png" style="height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+    	   <img src="<?php bloginfo('url') ?>/wp-content/uploads/2019/06/cmblackdone.png" style="height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
 
     	   
 
-    	   <p><i>Bringing technology into design</i></p>
+    	   
 
     	   
 

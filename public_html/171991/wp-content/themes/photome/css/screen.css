@@ -4662,7 +4662,7 @@ input[type=submit].center, input[type=button].center, a.button.center
   	position: absolute;
   	left: 0;
   	top: 50%;
-  	z-index: 0;
+  	z-index: 100;
 }
 
 #page_content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle span, h2.widgettitle span 
@@ -4823,10 +4823,10 @@ table tr th, table tr td
 
 #footer_menu li a
 {
-	font-size: 11px;
+	font-size: 14px;
 	font-weight: normal;
 	color: #fff;
-}
+} 
 
 #footer_menu li a:hover
 {

@@ -29,54 +29,146 @@ get_header();
 <style type="text/css">
 .cs-col img,.logo-landing{max-width:100%}#cs1-form,.header_style_wrapper{display:none!important}html[data-style=fullscreen],html[data-style=fullscreen] body{overflow:visible!important;height:auto;max-height:auto}.cs-col{float:left;padding-left:2%;padding-right:2%;margin-bottom:30px}.cs-col-3{width:25%;text-align:center;margin-bottom:0;padding:0}.landing-nav .cs-col a{padding:15px 0;width:100%;font-size:16px;position:relative;border:1px solid #000;float:left}.landing-nav .cs-col a:hover{background:#000;content:#fff}.cs-col-4{width:29.3333%}.cs-col-6{width:50%;margin-bottom:0;padding:0}.cs-col-12{width:100%;margin-bottom:-5px;padding:0}.cs-col-4-nav{width:33.3333%;text-align:center;margin-bottom:0;padding:0}.landing-soc{position:absolute;top:20px;right:50px}.rev-cont{padding:0 50px;float:left}.rev-cont-cs{padding:20px;float:left}.rev-cont-cs-cont{max-width:1180px;margin:auto}.rev-cont .textwidget{max-width:500px;width:100%}.wpac .wp-google-place{background-color:#222!important;color:#fff!important}.wpac .wp-google-right .wp-google-name a span{color:#fff!important}.wpac .wp-google-place .wp-google-left img{opacity:0}.show-form{width:100%;float:left;background:#222;padding-top:20px;padding-bottom:20px;margin-bottom:0}.show-form h2{font-size:22px;line-height:49px}@media screen and (min-width:992px){.push-right{float:right}.push-left{float:left}}@media screen and (max-width:991px){.landing-soc{position:relative;top:0;right:0}.cs-col{padding-left:0;padding-right:0}.cs-col-3,.cs-col-4,.cs-col-4-nav,.cs-col-6{width:100%;overflow:hidden}.rev-cont{padding:0}.landing-nav .cs-col a{border-left:none!important;border-right:none!important}.landing-nav .cs-col-4-nav{display:none}@media screen and (max-width:963px){.woocommerce #content table.cart td.actions .coupon .input-text,.woocommerce table.cart td.actions .coupon .input-text,.woocommerce-page #content table.cart td.actions .coupon .input-text,.woocommerce-page table.cart td.actions .coupon .input-text,input.wpcf7-text,input[type=date],input[type=email],input[type=password],input[type=text],input[type=url],select{padding:5px!important}.cs-form-gr input[type=submit]{padding:5px 10px;width:120px}.cs-form-gr{text-align:center}.show-form h2{font-size:20px;line-height:15px}.cs-form-gr-c{display:none}.show-form h2 span{border:1px solid #fff;padding:2px 5px;text-align:center;box-shadow:0 0 4px #ccc}}}
 
-.dl-speed {background-color: rgb(247,252,252);margin: 1px 1px 1px 1px;min-height:100px;max-width:300px;padding-right:0px;padding-left:0px;min-height:136px;max-height:136px;margin-bottom:5px;}
-
-.ul-speed {background-color:rgb(248,255,241);margin: 1px 1px 1px 1px;max-width:300px;padding-right:0px;padding-left:0px;margin-bottom:5px;}
-
-.allowance {background-color:rgb(246,246,246);margin: 1px 1px 1px 1px;max-width:300px;padding-right:0px;padding-left:0px;border-radius: 0px 0px 10px 10px;margin-bottom:20px;}
-
-.pricing {background-color:rgb(246,246,246);margin: 1px 1px 1px 1px;max-width:300px;padding-right:0px;padding-left:0px;min-height:250px;position:relative;border-radius: 10px 10px 0px 0px;margin-bottom:5px;}
-
-.dl-header{padding:10px;padding-top:25px;}
-
-.dl-content{vertical-align:middle;font-weight:bold;padding-bottom: 15%;padding-top: 5%;}
-
-.middle-span{display: inline-block;vertical-align: middle;}
-
-.monthlyprice {font-weight:bold;bottom:40px;position:absolute;right:79px;}
-//220 206 129
-.tandc {margin-top:10px;}
-
-.imgholder{
-	
+.dl-speed {
+	background-color: rgb(247,252,252);
+	margin: 1px 1px 1px 1px;
+	min-height:100px;
+	max-width:300px;
+	padding-right:0px;
+	padding-left:0px;
+	min-height:136px;
+	max-height:136px;
+	margin-bottom:5px;
 }
-//gothere
-.broadbandimgtext{color: rgb(220, 206,126);font-weight:bold;font-size:19px;}
 
-.fibreimgtext{color: rgb(256, 154, 110);font-weight:bold;font-size:19px;}
+.ul-speed {
+	background-color:rgb(248,255,241);
+	margin: 1px 1px 1px 1px;
+	max-width:300px;
+	padding-right:0px;
+	padding-left:0px;
+	margin-bottom:5px;
+}
 
-.ultraimgtext{color: rgb(172, 53, 46);font-weight:bold;font-size:19px;}
+.broadband-allowance {
+	background-color:rgb(246,246,246);
+	margin: 1px 1px 1px 1px;
+	max-width:300px;
+	padding-right:0px;
+	padding-left:0px;
+	border-radius: 0px 0px 10px 10px;
+	margin-bottom:20px;
+}
 
-.broadband-text-center{min-width:900px;}
+.broadband-pricing {
+	background-color:rgb(246,246,246);
+	margin: 1px 1px 1px 1px;
+	max-width:300px;
+	padding-right:0px;
+	padding-left:0px;
+	min-height:250px;
+	position:relative;
+	border-radius: 10px 10px 0px 0px;
+	margin-bottom:5px;
+}
 
-.linerental{bottom:20px;position:absolute;right:85px;}
+.dl-header{
+	padding:10px;
+	padding-top:25px;
+}
 
-.imgholder{background-repeat:no-repeat;min-height:55px;min-width:110px;margin-left:auto;margin-right:auto;display:block;}
+.dl-content{
+	vertical-align:middle;
+	font-weight:bold;
+	padding-bottom: 15%;
+	padding-top: 5%;
+}
 
-.imgwrapper{display:flex;}
+.middle-span{
+	display: inline-block;
+	vertical-align: middle;
+}
 
-@media only screen and (max-width: 991px)  {.broadband-text-center{min-width:300px;}}
+.monthlyprice {
+	font-weight:bold;
+	bottom:40px;
+	position:absolute;
+	right:79px;
+}
+//220 206 129
+.tandc {
+	margin-top:10px;
+}
 
-.broadbandimg{margin: auto; display: table-cell;vertical-align: middle;text-align: center;top: 10px; margin-top: 20px;}
+.broadbandimgtext{
+	color: rgb(220, 206,126);
+	font-weight:bold;
+	font-size:19px;
+}
 
-.activation{font-weight:bold;padding-bottom:10px;}
-.data-allowance{padding-top:10px;}
+.fibreimgtext{
+	color: rgb(256, 154, 110);
+	font-weight:bold;
+	font-size:19px;
+}
+
+.ultraimgtext{
+	color: rgb(172, 53, 46);
+	font-weight:bold;
+	font-size:19px;
+}
+
+.text-center{
+	min-width:900px;
+}
+
+.broadbandlinerental{
+	bottom:20px;
+	position:absolute;
+	right:85px;
+}
+
+.broadbandimgholder{
+	background-repeat:no-repeat;
+	min-height:55px;
+	min-width:110px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.broadbandimgwrapper{
+	display:flex;
+}
+
+@media only screen and (max-width: 991px)  {
+	.text-center{
+		min-width:300px;
+	}
+}
+
+.broadbandimg{
+	margin: auto;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    top: 10px;
+    margin-top: 20px;
+}
+
+.broadbandactivation{
+	font-weight:bold;
+	padding-bottom:10px;
+}
+.data-allowance{
+	padding-top:10px;
+}
 
 </style>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 
-<!-- jQuery library -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<!-- jQuery library 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>-->
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
@@ -145,10 +237,10 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 		</div>
 
 		<div .container-fluid>
-			<div class="broadband-text-center" style="display:inline-block;">
+			<div class="text-center" style="display:inline-block;">
 			<div class="col-md-4" style='padding-left:0px;padding-right:0px;'> 
-				<div class="pricing">
-					<div class="imgwrapper">
+				<div class="broadband-pricing">
+					<div class="broadbandimgwrapper">
 						<div class="imgholder broadbandimg" style="background-image:url(''); background-repeat:no-repeat">
 							<img style="width:105px" src="http://communitec:8888/wp-content/uploads/2019/06/broadbandtmpimage.png">
 						</div>
@@ -162,7 +254,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="monthlyprice">
 						From £31.00 a month
 					</div>
-					<div class="linerental">
+					<div class="broadbandlinerental">
 						(including line rental)
 					</div>
 
@@ -175,7 +267,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="dl-header">Maximum upload speed</div>
 					<div class="dl-content"><span class="middle-span"> 1Mbps*</span> </div>
 				</div>
-				<div class="allowance">
+				<div class="broadband-allowance">
 				<div class="data-allowance"> Unlimited data allowance <br> </div>
 				<div>Auto compensation <br> </div>
 				<div class="activation">Activation £99 incl. Router <br> </div>
@@ -183,8 +275,8 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 			</div>
 
 			<div class="col-md-4 " style='padding-left:0px;padding-right:0px;'> 
-				<div class="pricing">
-					<div class="imgwrapper">
+				<div class="broadband-pricing">
+					<div class="broadbandimgwrapper">
 						<div class="imgholder broadbandimg" style="background-image:url(''); background-repeat:no-repeat">
 							<img style="width:105px" src="http://communitec:8888/wp-content/uploads/2019/06/broadbandtmpimage.png">
 						</div>
@@ -198,7 +290,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="monthlyprice">
 						From £31.00 a month
 					</div>
-					<div class="linerental">
+					<div class="broadbandlinerental">
 						(including line rental)
 					</div>
 
@@ -211,7 +303,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="dl-header">Maximum upload speed</div>
 					<div class="dl-content"><span class="middle-span"> 17Mbps*</span> </div>
 				</div>
-				<div class="allowance">
+				<div class="broadband-allowance">
 				<div class="data-allowance"> Unlimited data allowance <br> </div>
 				<div>Auto compensation <br> </div>
 				<div class="activation">Activation £99 incl. Router <br> </div>
@@ -219,8 +311,8 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 			</div>
 
 			<div class="col-md-4 " style="padding-left:0px;padding-right:0px;"> 
-				<div class="pricing">
-					<div class="imgwrapper">
+				<div class="broadband-pricing">
+					<div class="broadbandimgwrapper">
 						<div class="imgholder broadbandimg" style="background-image:url(''); background-repeat:no-repeat">
 							<img style="width:105px" src="http://communitec:8888/wp-content/uploads/2019/06/broadbandtmpimage.png">
 						</div>
@@ -234,7 +326,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="monthlyprice">
 						From £31.00 a month
 					</div>
-					<div class="linerental">
+					<div class="broadbandlinerental">
 						(including line rental)
 					</div>
 
@@ -247,7 +339,7 @@ Whether you are only looking to send emails and browse the web, or perhaps looki
 					<div class="dl-header">Maximum upload speed</div>
 					<div class="dl-content"><span class="middle-span"> 50Mbps*</span> </div>
 				</div>
-				<div class="allowance">
+				<div class="broadband-allowance">
 				<div class="data-allowance"> Unlimited data allowance <br> </div>
 				<div>Auto compensation <br> </div>
 				<div class="activation">Activation £99 incl. Router <br> </div>
@@ -289,8 +381,7 @@ Communitec have the perfect competitive package for you based on your needs.
 	<div class="image_classic_frame expand animate visible">
 	<div class="image_wrapper"><a href="https://www.communitec.co/wp-content/uploads/2016/07/IMG_1696.jpg" class="img_frame"><img src="https://www.communitec.co/wp-content/uploads/2016/07/IMG_1696.jpg" alt="Smart, Home, Heating, Heatmiser, Nest, Cooling, HVAC" class="portfolio_img"></a></div></div></div><div class="one_half last content_middle animate visible">
 	We pride ourselves on providing our customers with quality technical support from our efficient and friendly IT specialists; our teams work extended hours of 8am to 8pm weekdays and 9am-5pm weekends for your convenience. ***</div><br class="clear"></div></div></div></div>
-	-->
-<div class="tandc" style="text-align:left; font-size:8px">
+	<div class="tandc" style="text-align:left; font-size:8px">-->
 	<br>
 	<strong>*Pricing assumes the property has a working telephone line. Installation of a telephone line can be arranged for a small fee. Installation fees can vary on an individual basis. <br>
 <br>

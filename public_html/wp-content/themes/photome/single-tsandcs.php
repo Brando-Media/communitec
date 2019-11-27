@@ -10,7 +10,7 @@ get_header();
 ?>
 <style>
 .accordiond {
-  background-color: #eee; 
+  background-color: #eee;
   color: #444;
   cursor: pointer;
   padding: 18px;

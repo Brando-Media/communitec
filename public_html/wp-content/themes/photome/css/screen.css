@@ -9911,6 +9911,17 @@ h1.product_title
     content: "";
     top: .35em;*/
 }
+@media only screen and (max-width: 961px) {
+	body:not(.home) #wrapper .top_bar {
+		background:white!important;
+	}
+	#logo_wrapper{
+		padding-top:13px;
+	}
+	#logo_right_button {
+		padding-top:17px;
+	}
+}
 
 @media only screen and (max-width: 699px) {
 	.imgwidthsmall{
@@ -9973,4 +9984,246 @@ h1.product_title
 		padding-top:24px;
 	} 
 
+}
+
+@media only screen and (min-width: 964px) {
+	
+}
+
+@media only screen and (max-width: 963px) {
+	.hidebroadbandform{
+		display:none!important;
+	} 
+}
+
+.broadbandformwidth{
+	width:100%!important;
+	height: 93px;
+    margin-bottom: 1px;
+}
+
+.broadform100{
+	width:100%!important;
+}
+
+.formbroadbandcontact{
+	float:none!important;
+	width:100%!important;
+}
+
+.broadform1{
+	width:45%!important;
+	display:inline-block!important;
+	float:left!important;
+}
+
+.broadform2{
+	width:55%!important;
+	display:inline-block!important;
+	float:left!important;
+}
+
+.broadbandformwidth .wpcf7-form-control{
+	height: 188px!important;
+}
+
+.stwbfo{
+	padding-left:0px;
+	max-width:inherit;
+}
+
+.bdfmw80{
+	width:80vw!important;
+	max-width:80vw!important;
+	min-width:80vw!important;
+}
+
+.bdfm80{
+	float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brofohe{
+	font-size:24px;
+}
+
+@media only screen and (min-width: 1300px) {
+	.broadcontactformpad{
+		margin-top:7.3%;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width:1299px){
+	.broadcontactformpad{
+		margin-top:4%;
+	}
+}
+
+
+@media only screen and (max-width:767px){
+	.broadcontactformpad{
+		margin-top:7.3%;
+	}
+}
+
+.bdfmml10{
+	margin-left:10px;
+}
+
+
+
+.formbroadbandcontact{
+	margin-bottom:0px!important;
+}
+
+.bdfmmr10{
+	float:left!important;
+}
+@media only screen and (min-width: 1831px) {
+	.bdfmmr10{
+		float:unset!important;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.bdfmml10{
+		float: none!;
+		width: 100vw;
+		min-width: 100vw;
+		margin-left: 0px;
+	}
+	.bdfmmr10{
+		float:none!important;
+		width:90%!important;
+		margin: auto!important;
+	}
+}
+
+@media only screen and (min-width: 768px) {	
+	.bdfmmr10{
+		margin-right:10px!important;
+		float:left!important;
+		width:47%!important;
+	}
+}
+
+@media only screen and (min-width: 865px)  and (max-width:991px){	
+
+}
+
+
+.broadform2 .wpcf7-select{
+	width:100%!important;
+	background:transparent!important;
+}
+
+.wpcf7-select{
+	border-radius:0px!important;
+}
+
+.mautotac{
+	margin:auto;
+}
+
+@media only screen and (min-width: 1820px){	
+	.padleftbroadtc{
+		padding-left:40px;
+	}
+}
+
+@media only screen and (min-width: 1520px) and (max-width:1819px){	
+	.padleftbroadtc{
+		padding-left:18px;
+	}
+}
+
+.broadform .cs-form-gr {
+	height:47px!important;
+}
+
+@media only screen and (min-width: 1320px) and (max-width:1519px){	
+	.padleftbroadtc{
+		padding-left:18px;
+	}
+}
+
+@media only screen and (min-width: 1020px) and (max-width:1319px){	
+	.padleftbroadtc{
+		padding-left:15px;
+	}
+}
+
+
+@media only screen and (max-width: 991px) and (min-width:768px){	
+	.padleftbroadtc{
+		padding-left:10px;
+		padding-right:10px;
+	}
+}
+
+
+@media only screen and (max-width: 767px){	
+	.padleftbroadtc{
+		width:90%;
+		margin:auto;
+	}
+}
+
+@media only screen and (max-width: 991px){	
+	
+	.padleftcus{
+		padding-left:1px;
+	}
+}
+.padleftcus{
+	padding-left:1px;
+}
+
+@media only screen and (max-width: 767px) and (min-width:501px){	
+	.padleftcus{
+		padding-left:3px;
+	}
+}
+
+@media only screen and (max-width: 500px){	
+	.padleftcus{
+		padding-left:2px;
+	}
+}
+
+
+
+span.wpcf7-not-valid-tip {
+    position: absolute;
+    top: 7px;
+    left: 89px;
+    font-size: 8px;
+}
+.smalltextbrform{
+	/*font-size:12px;*/
+	padding-bottom:15px;
+}
+
+@media only screen and (min-width: 1400px){	
+	span.wpcf7-not-valid-tip {
+		position: absolute;
+		top: 12px;
+		left: 11px;
+		font-size: 15px;
+	}
+}
+
+span.wpcf7-not-valid-tip {
+    position: absolute;
+    top: 12px;
+    left: 11px;
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 599px){
+	.broadcontactformpad .wpcf7-select{
+		height:47px;
+		font-size:12px;
+	}
 }

@@ -30,3 +30,5 @@
 [15-Feb-2019 01:40:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/photome/index.php on line 8
 [15-Feb-2019 01:40:54 UTC] PHP Fatal error:  Call to undefined function tg_menu_layout() in /home/communitecco/public_html/wp-content/themes/photome/header.php on line 31
 [15-Feb-2019 01:40:54 UTC] PHP Fatal error:  Call to undefined function get_post_type() in /home/communitecco/public_html/wp-content/themes/photome/archive.php on line 9
+[30-Jul-2019 00:54:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/photome/index.php on line 8
+[09-Nov-2019 15:25:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/photome/index.php on line 8

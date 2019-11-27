@@ -46,3 +46,6 @@
 [10-Jun-2019 22:35:14 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/comments.php on line 16
 [11-Jun-2019 05:55:39 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/comments.php on line 16
 [11-Jun-2019 07:00:23 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/comments.php on line 16
+[14-Jun-2019 03:24:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/archive.php on line 20
+[14-Jun-2019 05:20:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/archive.php on line 20
+[16-Jun-2019 02:38:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/wp-content/themes/twentyfourteen/404.php on line 10

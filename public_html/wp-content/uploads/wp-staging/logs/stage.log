@@ -1,0 +1,1110 @@
+[INFO]-[2019/11/19 14:04:40] Cloning: stage's clone job's data is not in database, generating data
+[INFO]-[2019/11/19 14:04:40] Cloning: stage's clone job's data is not in database, generating data
+[INFO]-[2019/11/19 14:04:40] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/11/19 14:04:40] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/11/19 14:04:41] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/11/19 14:04:41] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_ewwwio_images
+[INFO]-[2019/11/19 14:04:41] DB Copy: wp_ewwwio_images as wpstg0_ewwwio_images from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_ewwwio_images
+[INFO]-[2019/11/19 14:04:41] DB Copy: wp_ewwwio_images as wpstg0_ewwwio_images from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_fb3d_pages
+[INFO]-[2019/11/19 14:04:41] DB Copy: Creating table wpstg0_fb3d_pages
+[INFO]-[2019/11/19 14:04:42] DB Copy: Creating table wpstg0_grp_google_place
+[INFO]-[2019/11/19 14:04:42] DB Copy: wp_grp_google_place as wpstg0_grp_google_place from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:42] DB Copy: Creating table wpstg0_grp_google_place
+[INFO]-[2019/11/19 14:04:42] DB Copy: wp_grp_google_place as wpstg0_grp_google_place from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:42] DB Copy: Creating table wpstg0_grp_google_review
+[INFO]-[2019/11/19 14:04:42] DB Copy: wp_grp_google_review as wpstg0_grp_google_review from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:42] DB Copy: Creating table wpstg0_grp_google_review
+[INFO]-[2019/11/19 14:04:42] DB Copy: wp_grp_google_review as wpstg0_grp_google_review from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:43] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/11/19 14:04:43] DB Copy: wp_links as wpstg0_links from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:43] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/11/19 14:04:43] DB Copy: wp_links as wpstg0_links from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:43] DB Copy: Creating table wpstg0_nf3_action_meta
+[INFO]-[2019/11/19 14:04:43] DB Copy: wp_nf3_action_meta as wpstg0_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:43] DB Copy: Creating table wpstg0_nf3_action_meta
+[INFO]-[2019/11/19 14:04:43] DB Copy: wp_nf3_action_meta as wpstg0_nf3_action_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:44] DB Copy: Creating table wpstg0_nf3_actions
+[INFO]-[2019/11/19 14:04:44] DB Copy: wp_nf3_actions as wpstg0_nf3_actions from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:44] DB Copy: Creating table wpstg0_nf3_actions
+[INFO]-[2019/11/19 14:04:44] DB Copy: wp_nf3_actions as wpstg0_nf3_actions from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:44] DB Copy: Creating table wpstg0_nf3_field_meta
+[INFO]-[2019/11/19 14:04:44] DB Copy: wp_nf3_field_meta as wpstg0_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:44] DB Copy: Creating table wpstg0_nf3_field_meta
+[INFO]-[2019/11/19 14:04:44] DB Copy: wp_nf3_field_meta as wpstg0_nf3_field_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_fields
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_fields as wpstg0_nf3_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_fields
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_fields as wpstg0_nf3_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_form_meta
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_form_meta as wpstg0_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_form_meta
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_form_meta as wpstg0_nf3_form_meta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_forms
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_forms as wpstg0_nf3_forms from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:45] DB Copy: Creating table wpstg0_nf3_forms
+[INFO]-[2019/11/19 14:04:45] DB Copy: wp_nf3_forms as wpstg0_nf3_forms from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:46] DB Copy: Creating table wpstg0_nf3_object_meta
+[INFO]-[2019/11/19 14:04:46] DB Copy: Creating table wpstg0_nf3_object_meta
+[INFO]-[2019/11/19 14:04:46] DB Copy: Creating table wpstg0_nf3_objects
+[INFO]-[2019/11/19 14:04:46] DB Copy: Creating table wpstg0_nf3_objects
+[INFO]-[2019/11/19 14:04:47] DB Copy: Creating table wpstg0_nf3_relationships
+[INFO]-[2019/11/19 14:04:47] DB Copy: Creating table wpstg0_nf3_relationships
+[INFO]-[2019/11/19 14:04:47] DB Copy: Creating table wpstg0_nf_objectmeta
+[INFO]-[2019/11/19 14:04:47] DB Copy: wp_nf_objectmeta as wpstg0_nf_objectmeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:47] DB Copy: Creating table wpstg0_nf_objectmeta
+[INFO]-[2019/11/19 14:04:47] DB Copy: wp_nf_objectmeta as wpstg0_nf_objectmeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:48] DB Copy: Creating table wpstg0_nf_objects
+[INFO]-[2019/11/19 14:04:48] DB Copy: wp_nf_objects as wpstg0_nf_objects from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:48] DB Copy: Creating table wpstg0_nf_objects
+[INFO]-[2019/11/19 14:04:48] DB Copy: wp_nf_objects as wpstg0_nf_objects from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:48] DB Copy: Creating table wpstg0_nf_relationships
+[INFO]-[2019/11/19 14:04:48] DB Copy: wp_nf_relationships as wpstg0_nf_relationships from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:48] DB Copy: Creating table wpstg0_nf_relationships
+[INFO]-[2019/11/19 14:04:48] DB Copy: wp_nf_relationships as wpstg0_nf_relationships from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_ninja_forms_fav_fields
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_ninja_forms_fav_fields as wpstg0_ninja_forms_fav_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_ninja_forms_fav_fields
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_ninja_forms_fav_fields as wpstg0_ninja_forms_fav_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_ninja_forms_fields
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_ninja_forms_fields as wpstg0_ninja_forms_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_ninja_forms_fields
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_ninja_forms_fields as wpstg0_ninja_forms_fields from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:49] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/11/19 14:04:49] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:50] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/11/19 14:04:50] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:50] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/11/19 14:04:50] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/11/19 14:04:51] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/11/19 14:04:51] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2019/11/19 14:04:51] DB Copy: wp_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_revslider_css
+[INFO]-[2019/11/19 14:04:51] DB Copy: wp_revslider_css as wpstg0_revslider_css from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2019/11/19 14:04:51] DB Copy: Creating table wpstg0_revslider_layer_animations
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_navigations
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2019/11/19 14:04:52] DB Copy: wp_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_sliders
+[INFO]-[2019/11/19 14:04:52] DB Copy: wp_revslider_sliders as wpstg0_revslider_sliders from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2019/11/19 14:04:52] DB Copy: wp_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:52] DB Copy: Creating table wpstg0_revslider_slides
+[INFO]-[2019/11/19 14:04:52] DB Copy: wp_revslider_slides as wpstg0_revslider_slides from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_revslider_static_slides
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/11/19 14:04:53] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/11/19 14:04:53] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/11/19 14:04:53] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:53] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/11/19 14:04:53] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/11/19 14:04:54] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/11/19 14:04:54] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/11/19 14:04:54] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:54] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/11/19 14:04:54] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:55] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/11/19 14:04:55] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/11/19 14:04:55] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/11/19 14:04:55] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:04:56] DB Search & Replace:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/11/19 14:04:56] DB Search & Replace:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/11/19 14:04:59] DB Search & Replace:  Table wpstg0_comments 5000 to 10000 records
+[INFO]-[2019/11/19 14:04:59] DB Search & Replace:  Table wpstg0_comments 5000 to 10000 records
+[INFO]-[2019/11/19 14:05:00] DB Search & Replace:  Table wpstg0_ewwwio_images 0 to 5000 records
+[INFO]-[2019/11/19 14:05:00] DB Search & Replace:  Table wpstg0_ewwwio_images 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:04] DB Search & Replace:  Table wpstg0_grp_google_place 0 to 5000 records
+[INFO]-[2019/11/19 14:05:04] DB Search & Replace:  Table wpstg0_grp_google_place 0 to 5000 records
+[INFO]-[2019/11/19 14:05:04] DB Search & Replace:  Table wpstg0_grp_google_review 0 to 5000 records
+[INFO]-[2019/11/19 14:05:04] DB Search & Replace:  Table wpstg0_grp_google_review 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_links 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_links 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_nf3_action_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_nf3_actions 0 to 5000 records
+[INFO]-[2019/11/19 14:05:05] DB Search & Replace:  Table wpstg0_nf3_actions 0 to 5000 records
+[INFO]-[2019/11/19 14:05:06] DB Search & Replace:  Table wpstg0_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:06] DB Search & Replace:  Table wpstg0_nf3_field_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:06] DB Search & Replace:  Table wpstg0_nf3_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:06] DB Search & Replace:  Table wpstg0_nf3_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:07] DB Search & Replace:  Table wpstg0_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:07] DB Search & Replace:  Table wpstg0_nf3_form_meta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:07] DB Search & Replace:  Table wpstg0_nf3_forms 0 to 5000 records
+[INFO]-[2019/11/19 14:05:07] DB Search & Replace:  Table wpstg0_nf3_forms 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:08] DB Search & Replace:  Table wpstg0_nf_objectmeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:08] DB Search & Replace:  Table wpstg0_nf_objectmeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:08] DB Search & Replace:  Table wpstg0_nf_objects 0 to 5000 records
+[INFO]-[2019/11/19 14:05:08] DB Search & Replace:  Table wpstg0_nf_objects 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_nf_relationships 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_nf_relationships 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_ninja_forms_fav_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_ninja_forms_fav_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_ninja_forms_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:09] DB Search & Replace:  Table wpstg0_ninja_forms_fields 0 to 5000 records
+[INFO]-[2019/11/19 14:05:10] DB Search & Replace:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/11/19 14:05:10] DB Search & Replace:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/11/19 14:05:11] DB Search & Replace:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:11] DB Search & Replace:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:12] DB Search & Replace:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/11/19 14:05:12] DB Search & Replace:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/11/19 14:05:14] DB Search & Replace:  Table wpstg0_revslider_css 0 to 5000 records
+[INFO]-[2019/11/19 14:05:14] DB Search & Replace:  Table wpstg0_revslider_css 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:15] DB Search & Replace:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2019/11/19 14:05:15] DB Search & Replace:  Table wpstg0_revslider_sliders 0 to 5000 records
+[INFO]-[2019/11/19 14:05:15] DB Search & Replace:  Table wpstg0_revslider_slides 0 to 5000 records
+[INFO]-[2019/11/19 14:05:15] DB Search & Replace:  Table wpstg0_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:16] DB Search & Replace:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/11/19 14:05:16] DB Search & Replace:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/11/19 14:05:17] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/11/19 14:05:17] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/11/19 14:05:18] DB Search & Replace:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:05:19] Scanning / for files
+[INFO]-[2019/11/19 14:05:19] Scanning / for files
+[INFO]-[2019/11/19 14:05:20] Scanning wp-content folder /home/communitecco/public_html/wp-content
+[INFO]-[2019/11/19 14:05:20] Scanning wp-content folder /home/communitecco/public_html/wp-content
+[INFO]-[2019/11/19 14:05:21] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/11/19 14:05:21] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/11/19 14:05:22] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/11/19 14:05:22] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/11/19 14:05:22] Copying files...
+[INFO]-[2019/11/19 14:05:23] Total 50 files processed
+[INFO]-[2019/11/19 14:05:22] Copying files...
+[INFO]-[2019/11/19 14:05:23] Total 50 files processed
+[INFO]-[2019/11/19 14:05:24] Total 100 files processed
+[INFO]-[2019/11/19 14:05:24] Total 100 files processed
+[INFO]-[2019/11/19 14:05:24] Total 150 files processed
+[INFO]-[2019/11/19 14:05:24] Total 150 files processed
+[INFO]-[2019/11/19 14:05:25] Total 200 files processed
+[INFO]-[2019/11/19 14:05:25] Total 200 files processed
+[INFO]-[2019/11/19 14:05:26] Total 250 files processed
+[INFO]-[2019/11/19 14:05:26] Total 250 files processed
+[INFO]-[2019/11/19 14:05:27] Total 300 files processed
+[INFO]-[2019/11/19 14:05:27] Total 300 files processed
+[INFO]-[2019/11/19 14:05:27] Total 350 files processed
+[INFO]-[2019/11/19 14:05:27] Total 350 files processed
+[INFO]-[2019/11/19 14:05:28] Total 400 files processed
+[INFO]-[2019/11/19 14:05:28] Total 400 files processed
+[INFO]-[2019/11/19 14:05:29] Total 450 files processed
+[INFO]-[2019/11/19 14:05:29] Total 450 files processed
+[INFO]-[2019/11/19 14:05:30] Total 500 files processed
+[INFO]-[2019/11/19 14:05:30] Total 500 files processed
+[INFO]-[2019/11/19 14:05:31] Total 550 files processed
+[INFO]-[2019/11/19 14:05:31] Total 550 files processed
+[INFO]-[2019/11/19 14:05:32] Total 600 files processed
+[INFO]-[2019/11/19 14:05:32] Total 600 files processed
+[INFO]-[2019/11/19 14:05:33] Total 650 files processed
+[INFO]-[2019/11/19 14:05:33] Total 650 files processed
+[INFO]-[2019/11/19 14:05:34] Total 700 files processed
+[INFO]-[2019/11/19 14:05:34] Total 700 files processed
+[INFO]-[2019/11/19 14:05:38] Total 750 files processed
+[INFO]-[2019/11/19 14:05:38] Total 750 files processed
+[INFO]-[2019/11/19 14:05:38] Total 800 files processed
+[INFO]-[2019/11/19 14:05:38] Total 800 files processed
+[INFO]-[2019/11/19 14:05:43] Total 850 files processed
+[INFO]-[2019/11/19 14:05:43] Total 850 files processed
+[INFO]-[2019/11/19 14:05:44] Total 900 files processed
+[INFO]-[2019/11/19 14:05:44] Total 900 files processed
+[INFO]-[2019/11/19 14:05:48] Total 950 files processed
+[INFO]-[2019/11/19 14:05:48] Total 950 files processed
+[INFO]-[2019/11/19 14:05:49] Total 1000 files processed
+[INFO]-[2019/11/19 14:05:49] Total 1000 files processed
+[INFO]-[2019/11/19 14:05:49] Total 1050 files processed
+[INFO]-[2019/11/19 14:05:49] Total 1050 files processed
+[INFO]-[2019/11/19 14:05:50] Total 1100 files processed
+[INFO]-[2019/11/19 14:05:50] Total 1100 files processed
+[INFO]-[2019/11/19 14:05:51] Trying to copy big file: /home/communitecco/public_html/wp-content/plugins/revslider/public/assets/assets.zip -> /home/communitecco/public_html/stage/wp-content/plugins/revslider/public/assets/assets.zip
+[INFO]-[2019/11/19 14:05:52] Total 1150 files processed
+[INFO]-[2019/11/19 14:05:51] Trying to copy big file: /home/communitecco/public_html/wp-content/plugins/revslider/public/assets/assets.zip -> /home/communitecco/public_html/stage/wp-content/plugins/revslider/public/assets/assets.zip
+[INFO]-[2019/11/19 14:05:52] Total 1150 files processed
+[INFO]-[2019/11/19 14:05:52] Total 1200 files processed
+[INFO]-[2019/11/19 14:05:52] Total 1200 files processed
+[INFO]-[2019/11/19 14:05:53] Total 1250 files processed
+[INFO]-[2019/11/19 14:05:53] Total 1250 files processed
+[INFO]-[2019/11/19 14:05:54] Total 1300 files processed
+[INFO]-[2019/11/19 14:05:54] Total 1300 files processed
+[INFO]-[2019/11/19 14:05:56] Total 1350 files processed
+[INFO]-[2019/11/19 14:05:56] Total 1350 files processed
+[INFO]-[2019/11/19 14:05:56] Total 1400 files processed
+[INFO]-[2019/11/19 14:05:56] Total 1400 files processed
+[INFO]-[2019/11/19 14:06:00] Total 1450 files processed
+[INFO]-[2019/11/19 14:06:00] Total 1450 files processed
+[INFO]-[2019/11/19 14:06:01] Total 1500 files processed
+[INFO]-[2019/11/19 14:06:01] Total 1500 files processed
+[INFO]-[2019/11/19 14:06:02] Total 1550 files processed
+[INFO]-[2019/11/19 14:06:02] Total 1550 files processed
+[INFO]-[2019/11/19 14:06:02] Total 1600 files processed
+[INFO]-[2019/11/19 14:06:02] Total 1600 files processed
+[INFO]-[2019/11/19 14:06:03] Total 1650 files processed
+[INFO]-[2019/11/19 14:06:03] Total 1650 files processed
+[INFO]-[2019/11/19 14:06:04] Total 1700 files processed
+[INFO]-[2019/11/19 14:06:04] Total 1700 files processed
+[INFO]-[2019/11/19 14:06:05] Total 1750 files processed
+[INFO]-[2019/11/19 14:06:05] Total 1750 files processed
+[INFO]-[2019/11/19 14:06:06] Total 1800 files processed
+[INFO]-[2019/11/19 14:06:06] Total 1800 files processed
+[INFO]-[2019/11/19 14:06:07] Total 1850 files processed
+[INFO]-[2019/11/19 14:06:07] Total 1850 files processed
+[INFO]-[2019/11/19 14:06:08] Total 1900 files processed
+[INFO]-[2019/11/19 14:06:08] Total 1900 files processed
+[INFO]-[2019/11/19 14:06:08] Total 1950 files processed
+[INFO]-[2019/11/19 14:06:08] Total 1950 files processed
+[INFO]-[2019/11/19 14:06:12] Total 2000 files processed
+[INFO]-[2019/11/19 14:06:12] Total 2000 files processed
+[INFO]-[2019/11/19 14:06:13] Total 2050 files processed
+[INFO]-[2019/11/19 14:06:13] Total 2050 files processed
+[INFO]-[2019/11/19 14:06:13] Total 2100 files processed
+[INFO]-[2019/11/19 14:06:13] Total 2100 files processed
+[INFO]-[2019/11/19 14:06:14] Total 2150 files processed
+[INFO]-[2019/11/19 14:06:14] Total 2150 files processed
+[INFO]-[2019/11/19 14:06:14] Total 2200 files processed
+[INFO]-[2019/11/19 14:06:14] Total 2200 files processed
+[INFO]-[2019/11/19 14:06:15] Total 2250 files processed
+[INFO]-[2019/11/19 14:06:15] Total 2250 files processed
+[INFO]-[2019/11/19 14:06:16] Total 2300 files processed
+[INFO]-[2019/11/19 14:06:16] Total 2300 files processed
+[INFO]-[2019/11/19 14:06:16] Total 2350 files processed
+[INFO]-[2019/11/19 14:06:16] Total 2350 files processed
+[INFO]-[2019/11/19 14:06:17] Total 2400 files processed
+[INFO]-[2019/11/19 14:06:17] Total 2400 files processed
+[INFO]-[2019/11/19 14:06:18] Total 2450 files processed
+[INFO]-[2019/11/19 14:06:18] Total 2450 files processed
+[INFO]-[2019/11/19 14:06:20] Total 2500 files processed
+[INFO]-[2019/11/19 14:06:20] Total 2500 files processed
+[INFO]-[2019/11/19 14:06:20] Total 2550 files processed
+[INFO]-[2019/11/19 14:06:20] Total 2550 files processed
+[INFO]-[2019/11/19 14:06:21] Total 2600 files processed
+[INFO]-[2019/11/19 14:06:21] Total 2600 files processed
+[INFO]-[2019/11/19 14:06:22] Total 2650 files processed
+[INFO]-[2019/11/19 14:06:22] Total 2650 files processed
+[INFO]-[2019/11/19 14:06:23] Total 2700 files processed
+[INFO]-[2019/11/19 14:06:23] Total 2700 files processed
+[INFO]-[2019/11/19 14:06:23] Total 2750 files processed
+[INFO]-[2019/11/19 14:06:23] Total 2750 files processed
+[INFO]-[2019/11/19 14:06:24] Total 2800 files processed
+[INFO]-[2019/11/19 14:06:24] Total 2800 files processed
+[INFO]-[2019/11/19 14:06:24] Total 2850 files processed
+[INFO]-[2019/11/19 14:06:24] Total 2850 files processed
+[INFO]-[2019/11/19 14:06:25] Total 2900 files processed
+[INFO]-[2019/11/19 14:06:25] Total 2900 files processed
+[INFO]-[2019/11/19 14:06:26] Total 2950 files processed
+[INFO]-[2019/11/19 14:06:26] Total 2950 files processed
+[INFO]-[2019/11/19 14:06:26] Total 3000 files processed
+[INFO]-[2019/11/19 14:06:26] Total 3000 files processed
+[INFO]-[2019/11/19 14:06:26] Total 3050 files processed
+[INFO]-[2019/11/19 14:06:26] Total 3050 files processed
+[INFO]-[2019/11/19 14:06:28] Total 3100 files processed
+[INFO]-[2019/11/19 14:06:28] Total 3100 files processed
+[INFO]-[2019/11/19 14:06:29] Total 3150 files processed
+[INFO]-[2019/11/19 14:06:29] Total 3150 files processed
+[INFO]-[2019/11/19 14:06:29] Total 3200 files processed
+[INFO]-[2019/11/19 14:06:29] Total 3200 files processed
+[INFO]-[2019/11/19 14:06:30] Total 3250 files processed
+[INFO]-[2019/11/19 14:06:30] Total 3250 files processed
+[INFO]-[2019/11/19 14:06:31] Total 3300 files processed
+[INFO]-[2019/11/19 14:06:31] Total 3300 files processed
+[INFO]-[2019/11/19 14:06:31] Total 3350 files processed
+[INFO]-[2019/11/19 14:06:31] Total 3350 files processed
+[INFO]-[2019/11/19 14:06:32] Total 3400 files processed
+[INFO]-[2019/11/19 14:06:32] Total 3400 files processed
+[INFO]-[2019/11/19 14:06:33] Total 3450 files processed
+[INFO]-[2019/11/19 14:06:33] Total 3450 files processed
+[INFO]-[2019/11/19 14:06:35] Total 3500 files processed
+[INFO]-[2019/11/19 14:06:35] Total 3500 files processed
+[INFO]-[2019/11/19 14:06:46] Total 3550 files processed
+[INFO]-[2019/11/19 14:06:46] Total 3550 files processed
+[INFO]-[2019/11/19 14:06:47] Total 3600 files processed
+[INFO]-[2019/11/19 14:06:47] Total 3600 files processed
+[INFO]-[2019/11/19 14:06:47] Total 3650 files processed
+[INFO]-[2019/11/19 14:06:47] Total 3650 files processed
+[INFO]-[2019/11/19 14:06:48] Total 3700 files processed
+[INFO]-[2019/11/19 14:06:48] Total 3700 files processed
+[INFO]-[2019/11/19 14:06:49] Total 3750 files processed
+[INFO]-[2019/11/19 14:06:49] Total 3750 files processed
+[INFO]-[2019/11/19 14:06:49] Total 3800 files processed
+[INFO]-[2019/11/19 14:06:49] Total 3800 files processed
+[INFO]-[2019/11/19 14:06:50] Total 3850 files processed
+[INFO]-[2019/11/19 14:06:50] Total 3850 files processed
+[INFO]-[2019/11/19 14:06:51] Total 3900 files processed
+[INFO]-[2019/11/19 14:06:51] Total 3900 files processed
+[INFO]-[2019/11/19 14:06:52] Total 3950 files processed
+[INFO]-[2019/11/19 14:06:52] Total 3950 files processed
+[INFO]-[2019/11/19 14:06:56] Total 4000 files processed
+[INFO]-[2019/11/19 14:06:56] Total 4000 files processed
+[INFO]-[2019/11/19 14:07:00] Total 4050 files processed
+[INFO]-[2019/11/19 14:07:00] Total 4050 files processed
+[INFO]-[2019/11/19 14:07:01] Total 4100 files processed
+[INFO]-[2019/11/19 14:07:01] Total 4100 files processed
+[INFO]-[2019/11/19 14:07:01] Total 4150 files processed
+[INFO]-[2019/11/19 14:07:01] Total 4150 files processed
+[INFO]-[2019/11/19 14:07:02] Total 4200 files processed
+[INFO]-[2019/11/19 14:07:02] Total 4200 files processed
+[INFO]-[2019/11/19 14:07:02] Total 4250 files processed
+[INFO]-[2019/11/19 14:07:02] Total 4250 files processed
+[INFO]-[2019/11/19 14:07:03] Total 4300 files processed
+[INFO]-[2019/11/19 14:07:03] Total 4300 files processed
+[INFO]-[2019/11/19 14:07:04] Total 4350 files processed
+[INFO]-[2019/11/19 14:07:04] Total 4350 files processed
+[INFO]-[2019/11/19 14:07:05] Total 4400 files processed
+[INFO]-[2019/11/19 14:07:05] Total 4400 files processed
+[INFO]-[2019/11/19 14:07:08] Total 4450 files processed
+[INFO]-[2019/11/19 14:07:08] Total 4450 files processed
+[INFO]-[2019/11/19 14:07:09] Total 4500 files processed
+[INFO]-[2019/11/19 14:07:09] Total 4500 files processed
+[INFO]-[2019/11/19 14:07:09] Total 4550 files processed
+[INFO]-[2019/11/19 14:07:09] Total 4550 files processed
+[INFO]-[2019/11/19 14:07:10] Total 4600 files processed
+[INFO]-[2019/11/19 14:07:10] Total 4600 files processed
+[INFO]-[2019/11/19 14:07:11] Total 4650 files processed
+[INFO]-[2019/11/19 14:07:11] Total 4650 files processed
+[INFO]-[2019/11/19 14:07:12] Total 4700 files processed
+[INFO]-[2019/11/19 14:07:12] Total 4700 files processed
+[INFO]-[2019/11/19 14:07:15] Total 4750 files processed
+[INFO]-[2019/11/19 14:07:15] Total 4750 files processed
+[INFO]-[2019/11/19 14:07:16] Total 4800 files processed
+[INFO]-[2019/11/19 14:07:16] Total 4800 files processed
+[INFO]-[2019/11/19 14:07:16] Total 4850 files processed
+[INFO]-[2019/11/19 14:07:16] Total 4850 files processed
+[INFO]-[2019/11/19 14:07:17] Total 4900 files processed
+[INFO]-[2019/11/19 14:07:17] Total 4900 files processed
+[INFO]-[2019/11/19 14:07:18] Total 4950 files processed
+[INFO]-[2019/11/19 14:07:18] Total 4950 files processed
+[INFO]-[2019/11/19 14:07:18] Total 5000 files processed
+[INFO]-[2019/11/19 14:07:18] Total 5000 files processed
+[INFO]-[2019/11/19 14:07:19] Total 5050 files processed
+[INFO]-[2019/11/19 14:07:19] Total 5050 files processed
+[INFO]-[2019/11/19 14:07:20] Total 5100 files processed
+[INFO]-[2019/11/19 14:07:20] Total 5100 files processed
+[INFO]-[2019/11/19 14:07:21] Total 5150 files processed
+[INFO]-[2019/11/19 14:07:21] Total 5150 files processed
+[INFO]-[2019/11/19 14:07:21] Total 5200 files processed
+[INFO]-[2019/11/19 14:07:21] Total 5200 files processed
+[INFO]-[2019/11/19 14:07:22] Total 5250 files processed
+[INFO]-[2019/11/19 14:07:22] Total 5250 files processed
+[INFO]-[2019/11/19 14:07:23] Total 5300 files processed
+[INFO]-[2019/11/19 14:07:23] Total 5300 files processed
+[INFO]-[2019/11/19 14:07:23] Total 5350 files processed
+[INFO]-[2019/11/19 14:07:23] Total 5350 files processed
+[INFO]-[2019/11/19 14:07:25] Total 5400 files processed
+[INFO]-[2019/11/19 14:07:25] Total 5400 files processed
+[INFO]-[2019/11/19 14:07:29] Total 5450 files processed
+[INFO]-[2019/11/19 14:07:29] Total 5450 files processed
+[INFO]-[2019/11/19 14:07:34] Total 5500 files processed
+[INFO]-[2019/11/19 14:07:34] Total 5500 files processed
+[INFO]-[2019/11/19 14:07:42] Total 5550 files processed
+[INFO]-[2019/11/19 14:07:42] Total 5550 files processed
+[INFO]-[2019/11/19 14:07:43] Total 5600 files processed
+[INFO]-[2019/11/19 14:07:43] Total 5600 files processed
+[INFO]-[2019/11/19 14:07:44] Total 5650 files processed
+[INFO]-[2019/11/19 14:07:44] Total 5650 files processed
+[INFO]-[2019/11/19 14:07:45] Total 5700 files processed
+[INFO]-[2019/11/19 14:07:45] Total 5700 files processed
+[INFO]-[2019/11/19 14:07:46] Total 5750 files processed
+[INFO]-[2019/11/19 14:07:46] Total 5750 files processed
+[INFO]-[2019/11/19 14:07:47] Total 5800 files processed
+[INFO]-[2019/11/19 14:07:47] Total 5800 files processed
+[INFO]-[2019/11/19 14:07:48] Total 5850 files processed
+[INFO]-[2019/11/19 14:07:48] Total 5850 files processed
+[INFO]-[2019/11/19 14:07:49] Total 5900 files processed
+[INFO]-[2019/11/19 14:07:49] Total 5900 files processed
+[INFO]-[2019/11/19 14:07:49] Total 5950 files processed
+[INFO]-[2019/11/19 14:07:49] Total 5950 files processed
+[INFO]-[2019/11/19 14:07:50] Total 6000 files processed
+[INFO]-[2019/11/19 14:07:50] Total 6000 files processed
+[INFO]-[2019/11/19 14:07:51] Total 6050 files processed
+[INFO]-[2019/11/19 14:07:51] Total 6050 files processed
+[INFO]-[2019/11/19 14:07:52] Total 6100 files processed
+[INFO]-[2019/11/19 14:07:52] Total 6100 files processed
+[INFO]-[2019/11/19 14:07:52] Total 6150 files processed
+[INFO]-[2019/11/19 14:07:52] Total 6150 files processed
+[INFO]-[2019/11/19 14:07:53] Total 6200 files processed
+[INFO]-[2019/11/19 14:07:53] Total 6200 files processed
+[INFO]-[2019/11/19 14:07:53] Total 6250 files processed
+[INFO]-[2019/11/19 14:07:53] Total 6250 files processed
+[INFO]-[2019/11/19 14:07:54] Total 6300 files processed
+[INFO]-[2019/11/19 14:07:54] Total 6300 files processed
+[INFO]-[2019/11/19 14:07:55] Total 6350 files processed
+[INFO]-[2019/11/19 14:07:55] Total 6350 files processed
+[INFO]-[2019/11/19 14:07:55] Total 6400 files processed
+[INFO]-[2019/11/19 14:07:55] Total 6400 files processed
+[INFO]-[2019/11/19 14:07:56] Total 6450 files processed
+[INFO]-[2019/11/19 14:07:56] Total 6450 files processed
+[INFO]-[2019/11/19 14:07:57] Total 6500 files processed
+[INFO]-[2019/11/19 14:07:57] Total 6500 files processed
+[INFO]-[2019/11/19 14:07:58] Total 6550 files processed
+[INFO]-[2019/11/19 14:07:58] Total 6550 files processed
+[INFO]-[2019/11/19 14:07:58] Total 6600 files processed
+[INFO]-[2019/11/19 14:07:58] Total 6600 files processed
+[INFO]-[2019/11/19 14:07:59] Total 6650 files processed
+[INFO]-[2019/11/19 14:07:59] Total 6650 files processed
+[INFO]-[2019/11/19 14:08:00] Total 6700 files processed
+[INFO]-[2019/11/19 14:08:00] Total 6700 files processed
+[INFO]-[2019/11/19 14:08:01] Total 6750 files processed
+[INFO]-[2019/11/19 14:08:01] Total 6750 files processed
+[INFO]-[2019/11/19 14:08:04] Total 6800 files processed
+[INFO]-[2019/11/19 14:08:04] Total 6800 files processed
+[INFO]-[2019/11/19 14:08:05] Total 6850 files processed
+[INFO]-[2019/11/19 14:08:05] Total 6850 files processed
+[INFO]-[2019/11/19 14:08:06] Total 6900 files processed
+[INFO]-[2019/11/19 14:08:06] Total 6900 files processed
+[INFO]-[2019/11/19 14:08:07] Total 6950 files processed
+[INFO]-[2019/11/19 14:08:07] Total 6950 files processed
+[INFO]-[2019/11/19 14:08:08] Total 7000 files processed
+[INFO]-[2019/11/19 14:08:08] Total 7000 files processed
+[INFO]-[2019/11/19 14:08:11] Total 7050 files processed
+[INFO]-[2019/11/19 14:08:11] Total 7050 files processed
+[INFO]-[2019/11/19 14:08:11] Total 7100 files processed
+[INFO]-[2019/11/19 14:08:11] Total 7100 files processed
+[INFO]-[2019/11/19 14:08:12] Total 7150 files processed
+[INFO]-[2019/11/19 14:08:12] Total 7150 files processed
+[INFO]-[2019/11/19 14:08:13] Total 7200 files processed
+[INFO]-[2019/11/19 14:08:13] Total 7200 files processed
+[INFO]-[2019/11/19 14:08:14] Total 7250 files processed
+[INFO]-[2019/11/19 14:08:14] Total 7250 files processed
+[INFO]-[2019/11/19 14:08:15] Total 7300 files processed
+[INFO]-[2019/11/19 14:08:15] Total 7300 files processed
+[INFO]-[2019/11/19 14:08:16] Total 7350 files processed
+[INFO]-[2019/11/19 14:08:16] Total 7350 files processed
+[INFO]-[2019/11/19 14:08:17] Total 7400 files processed
+[INFO]-[2019/11/19 14:08:17] Total 7400 files processed
+[INFO]-[2019/11/19 14:08:21] Total 7450 files processed
+[INFO]-[2019/11/19 14:08:21] Total 7450 files processed
+[INFO]-[2019/11/19 14:08:22] Total 7500 files processed
+[INFO]-[2019/11/19 14:08:22] Total 7500 files processed
+[INFO]-[2019/11/19 14:08:23] Total 7550 files processed
+[INFO]-[2019/11/19 14:08:23] Total 7550 files processed
+[INFO]-[2019/11/19 14:08:24] Total 7600 files processed
+[INFO]-[2019/11/19 14:08:24] Total 7600 files processed
+[INFO]-[2019/11/19 14:08:25] Total 7650 files processed
+[INFO]-[2019/11/19 14:08:25] Total 7650 files processed
+[INFO]-[2019/11/19 14:08:30] Total 7700 files processed
+[INFO]-[2019/11/19 14:08:30] Total 7700 files processed
+[INFO]-[2019/11/19 14:08:31] Total 7750 files processed
+[INFO]-[2019/11/19 14:08:31] Total 7750 files processed
+[INFO]-[2019/11/19 14:08:36] Total 7800 files processed
+[INFO]-[2019/11/19 14:08:36] Total 7800 files processed
+[INFO]-[2019/11/19 14:08:36] Total 7850 files processed
+[INFO]-[2019/11/19 14:08:36] Total 7850 files processed
+[INFO]-[2019/11/19 14:08:37] Total 7900 files processed
+[INFO]-[2019/11/19 14:08:37] Total 7900 files processed
+[INFO]-[2019/11/19 14:08:38] Total 7950 files processed
+[INFO]-[2019/11/19 14:08:38] Total 7950 files processed
+[INFO]-[2019/11/19 14:08:39] Total 8000 files processed
+[INFO]-[2019/11/19 14:08:39] Total 8000 files processed
+[INFO]-[2019/11/19 14:08:40] Total 8050 files processed
+[INFO]-[2019/11/19 14:08:40] Total 8050 files processed
+[INFO]-[2019/11/19 14:08:41] Total 8100 files processed
+[INFO]-[2019/11/19 14:08:41] Total 8100 files processed
+[INFO]-[2019/11/19 14:08:42] Total 8150 files processed
+[INFO]-[2019/11/19 14:08:42] Total 8150 files processed
+[INFO]-[2019/11/19 14:08:44] Total 8200 files processed
+[INFO]-[2019/11/19 14:08:44] Total 8200 files processed
+[INFO]-[2019/11/19 14:08:45] Total 8250 files processed
+[INFO]-[2019/11/19 14:08:45] Total 8250 files processed
+[INFO]-[2019/11/19 14:08:46] Total 8300 files processed
+[INFO]-[2019/11/19 14:08:46] Total 8300 files processed
+[INFO]-[2019/11/19 14:08:46] Total 8350 files processed
+[INFO]-[2019/11/19 14:08:46] Total 8350 files processed
+[INFO]-[2019/11/19 14:08:47] Total 8400 files processed
+[INFO]-[2019/11/19 14:08:47] Total 8400 files processed
+[INFO]-[2019/11/19 14:08:48] Total 8450 files processed
+[INFO]-[2019/11/19 14:08:48] Total 8450 files processed
+[INFO]-[2019/11/19 14:08:48] Total 8500 files processed
+[INFO]-[2019/11/19 14:08:48] Total 8500 files processed
+[INFO]-[2019/11/19 14:08:49] Total 8550 files processed
+[INFO]-[2019/11/19 14:08:49] Total 8550 files processed
+[INFO]-[2019/11/19 14:08:50] Total 8600 files processed
+[INFO]-[2019/11/19 14:08:50] Total 8600 files processed
+[INFO]-[2019/11/19 14:08:50] Total 8650 files processed
+[INFO]-[2019/11/19 14:08:50] Total 8650 files processed
+[INFO]-[2019/11/19 14:08:51] Total 8700 files processed
+[INFO]-[2019/11/19 14:08:51] Total 8700 files processed
+[INFO]-[2019/11/19 14:08:52] Total 8750 files processed
+[INFO]-[2019/11/19 14:08:52] Total 8750 files processed
+[INFO]-[2019/11/19 14:08:56] Total 8800 files processed
+[INFO]-[2019/11/19 14:08:56] Total 8800 files processed
+[INFO]-[2019/11/19 14:08:57] Total 8850 files processed
+[INFO]-[2019/11/19 14:08:57] Total 8850 files processed
+[INFO]-[2019/11/19 14:08:58] Total 8900 files processed
+[INFO]-[2019/11/19 14:08:58] Total 8900 files processed
+[INFO]-[2019/11/19 14:09:01] Total 8950 files processed
+[INFO]-[2019/11/19 14:09:01] Total 8950 files processed
+[INFO]-[2019/11/19 14:09:02] Total 9000 files processed
+[INFO]-[2019/11/19 14:09:02] Total 9000 files processed
+[INFO]-[2019/11/19 14:09:03] Total 9050 files processed
+[INFO]-[2019/11/19 14:09:03] Total 9050 files processed
+[INFO]-[2019/11/19 14:09:04] Total 9100 files processed
+[INFO]-[2019/11/19 14:09:04] Total 9100 files processed
+[INFO]-[2019/11/19 14:09:05] Total 9150 files processed
+[INFO]-[2019/11/19 14:09:05] Total 9150 files processed
+[INFO]-[2019/11/19 14:09:05] Total 9200 files processed
+[INFO]-[2019/11/19 14:09:05] Total 9200 files processed
+[INFO]-[2019/11/19 14:09:08] Total 9250 files processed
+[INFO]-[2019/11/19 14:09:08] Total 9250 files processed
+[INFO]-[2019/11/19 14:09:08] Total 9300 files processed
+[INFO]-[2019/11/19 14:09:08] Total 9300 files processed
+[INFO]-[2019/11/19 14:09:10] Total 9350 files processed
+[INFO]-[2019/11/19 14:09:10] Total 9350 files processed
+[INFO]-[2019/11/19 14:09:11] Total 9400 files processed
+[INFO]-[2019/11/19 14:09:11] Total 9400 files processed
+[INFO]-[2019/11/19 14:09:12] Total 9450 files processed
+[INFO]-[2019/11/19 14:09:12] Total 9450 files processed
+[INFO]-[2019/11/19 14:09:12] Total 9500 files processed
+[INFO]-[2019/11/19 14:09:12] Total 9500 files processed
+[INFO]-[2019/11/19 14:09:13] Total 9550 files processed
+[INFO]-[2019/11/19 14:09:13] Total 9550 files processed
+[INFO]-[2019/11/19 14:09:14] Total 9600 files processed
+[INFO]-[2019/11/19 14:09:14] Total 9600 files processed
+[INFO]-[2019/11/19 14:09:15] Total 9650 files processed
+[INFO]-[2019/11/19 14:09:15] Total 9650 files processed
+[INFO]-[2019/11/19 14:09:15] Total 9700 files processed
+[INFO]-[2019/11/19 14:09:15] Total 9700 files processed
+[INFO]-[2019/11/19 14:09:16] Total 9750 files processed
+[INFO]-[2019/11/19 14:09:16] Total 9750 files processed
+[INFO]-[2019/11/19 14:09:17] Total 9800 files processed
+[INFO]-[2019/11/19 14:09:17] Total 9800 files processed
+[INFO]-[2019/11/19 14:09:18] Total 9850 files processed
+[INFO]-[2019/11/19 14:09:18] Total 9850 files processed
+[INFO]-[2019/11/19 14:09:19] Total 9900 files processed
+[INFO]-[2019/11/19 14:09:19] Total 9900 files processed
+[INFO]-[2019/11/19 14:09:20] Total 9950 files processed
+[INFO]-[2019/11/19 14:09:20] Total 9950 files processed
+[INFO]-[2019/11/19 14:09:23] Total 10000 files processed
+[INFO]-[2019/11/19 14:09:23] Total 10000 files processed
+[INFO]-[2019/11/19 14:09:24] Total 10050 files processed
+[INFO]-[2019/11/19 14:09:24] Total 10050 files processed
+[INFO]-[2019/11/19 14:09:25] Total 10100 files processed
+[INFO]-[2019/11/19 14:09:25] Total 10100 files processed
+[INFO]-[2019/11/19 14:09:26] Total 10150 files processed
+[INFO]-[2019/11/19 14:09:26] Total 10150 files processed
+[INFO]-[2019/11/19 14:09:27] Total 10200 files processed
+[INFO]-[2019/11/19 14:09:27] Total 10200 files processed
+[INFO]-[2019/11/19 14:09:27] Total 10250 files processed
+[INFO]-[2019/11/19 14:09:27] Total 10250 files processed
+[INFO]-[2019/11/19 14:09:28] Total 10300 files processed
+[INFO]-[2019/11/19 14:09:28] Total 10300 files processed
+[INFO]-[2019/11/19 14:09:29] Total 10350 files processed
+[INFO]-[2019/11/19 14:09:29] Total 10350 files processed
+[INFO]-[2019/11/19 14:09:30] Total 10400 files processed
+[INFO]-[2019/11/19 14:09:30] Total 10400 files processed
+[INFO]-[2019/11/19 14:09:36] Total 10450 files processed
+[INFO]-[2019/11/19 14:09:36] Total 10450 files processed
+[INFO]-[2019/11/19 14:09:37] Total 10500 files processed
+[INFO]-[2019/11/19 14:09:37] Total 10500 files processed
+[INFO]-[2019/11/19 14:09:38] Total 10550 files processed
+[INFO]-[2019/11/19 14:09:38] Total 10550 files processed
+[INFO]-[2019/11/19 14:09:39] Total 10600 files processed
+[INFO]-[2019/11/19 14:09:39] Total 10600 files processed
+[INFO]-[2019/11/19 14:09:41] Total 10650 files processed
+[INFO]-[2019/11/19 14:09:41] Total 10650 files processed
+[INFO]-[2019/11/19 14:09:42] Total 10700 files processed
+[INFO]-[2019/11/19 14:09:42] Total 10700 files processed
+[INFO]-[2019/11/19 14:09:42] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/photome/lib/plugins/revslider.zip -> /home/communitecco/public_html/stage/wp-content/themes/photome/lib/plugins/revslider.zip
+[INFO]-[2019/11/19 14:09:53] Total 10750 files processed
+[INFO]-[2019/11/19 14:09:42] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/photome/lib/plugins/revslider.zip -> /home/communitecco/public_html/stage/wp-content/themes/photome/lib/plugins/revslider.zip
+[INFO]-[2019/11/19 14:09:53] Total 10750 files processed
+[INFO]-[2019/11/19 14:09:54] Total 10800 files processed
+[INFO]-[2019/11/19 14:09:54] Total 10800 files processed
+[INFO]-[2019/11/19 14:09:55] Total 10850 files processed
+[INFO]-[2019/11/19 14:09:55] Total 10850 files processed
+[INFO]-[2019/11/19 14:09:57] Total 10900 files processed
+[INFO]-[2019/11/19 14:09:57] Total 10900 files processed
+[INFO]-[2019/11/19 14:09:57] Total 10950 files processed
+[INFO]-[2019/11/19 14:09:57] Total 10950 files processed
+[INFO]-[2019/11/19 14:09:58] Total 11000 files processed
+[INFO]-[2019/11/19 14:09:58] Total 11000 files processed
+[INFO]-[2019/11/19 14:10:01] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/photome/modules/error_log -> /home/communitecco/public_html/stage/wp-content/themes/photome/modules/error_log
+[INFO]-[2019/11/19 14:10:07] Total 11050 files processed
+[INFO]-[2019/11/19 14:10:01] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/photome/modules/error_log -> /home/communitecco/public_html/stage/wp-content/themes/photome/modules/error_log
+[INFO]-[2019/11/19 14:10:07] Total 11050 files processed
+[INFO]-[2019/11/19 14:10:11] Total 11100 files processed
+[INFO]-[2019/11/19 14:10:11] Total 11100 files processed
+[INFO]-[2019/11/19 14:10:12] Total 11150 files processed
+[INFO]-[2019/11/19 14:10:12] Total 11150 files processed
+[INFO]-[2019/11/19 14:10:13] Total 11200 files processed
+[INFO]-[2019/11/19 14:10:13] Total 11200 files processed
+[INFO]-[2019/11/19 14:10:19] Total 11250 files processed
+[INFO]-[2019/11/19 14:10:19] Total 11250 files processed
+[INFO]-[2019/11/19 14:10:20] Total 11300 files processed
+[INFO]-[2019/11/19 14:10:20] Total 11300 files processed
+[INFO]-[2019/11/19 14:10:24] Total 11350 files processed
+[INFO]-[2019/11/19 14:10:24] Total 11350 files processed
+[INFO]-[2019/11/19 14:10:25] Total 11400 files processed
+[INFO]-[2019/11/19 14:10:25] Total 11400 files processed
+[INFO]-[2019/11/19 14:10:26] Total 11450 files processed
+[INFO]-[2019/11/19 14:10:26] Total 11450 files processed
+[INFO]-[2019/11/19 14:10:27] Total 11500 files processed
+[INFO]-[2019/11/19 14:10:27] Total 11500 files processed
+[INFO]-[2019/11/19 14:10:28] Total 11550 files processed
+[INFO]-[2019/11/19 14:10:28] Total 11550 files processed
+[INFO]-[2019/11/19 14:10:30] Total 11600 files processed
+[INFO]-[2019/11/19 14:10:30] Total 11600 files processed
+[INFO]-[2019/11/19 14:10:31] Total 11650 files processed
+[INFO]-[2019/11/19 14:10:31] Total 11650 files processed
+[INFO]-[2019/11/19 14:10:36] Total 11700 files processed
+[INFO]-[2019/11/19 14:10:36] Total 11700 files processed
+[INFO]-[2019/11/19 14:10:38] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/crofts/lib/plugins/types.zip -> /home/communitecco/public_html/stage/wp-content/themes/crofts/lib/plugins/types.zip
+[INFO]-[2019/11/19 14:10:45] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/crofts/lib/plugins/js_composer.zip -> /home/communitecco/public_html/stage/wp-content/themes/crofts/lib/plugins/js_composer.zip
+[INFO]-[2019/11/19 14:10:53] Total 11750 files processed
+[INFO]-[2019/11/19 14:10:38] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/crofts/lib/plugins/types.zip -> /home/communitecco/public_html/stage/wp-content/themes/crofts/lib/plugins/types.zip
+[INFO]-[2019/11/19 14:10:45] Trying to copy big file: /home/communitecco/public_html/wp-content/themes/crofts/lib/plugins/js_composer.zip -> /home/communitecco/public_html/stage/wp-content/themes/crofts/lib/plugins/js_composer.zip
+[INFO]-[2019/11/19 14:10:53] Total 11750 files processed
+[INFO]-[2019/11/19 14:10:54] Total 11800 files processed
+[INFO]-[2019/11/19 14:10:54] Total 11800 files processed
+[INFO]-[2019/11/19 14:10:55] Total 11850 files processed
+[INFO]-[2019/11/19 14:10:55] Total 11850 files processed
+[INFO]-[2019/11/19 14:10:56] Total 11900 files processed
+[INFO]-[2019/11/19 14:10:56] Total 11900 files processed
+[INFO]-[2019/11/19 14:11:01] Total 11950 files processed
+[INFO]-[2019/11/19 14:11:01] Total 11950 files processed
+[INFO]-[2019/11/19 14:11:02] Total 12000 files processed
+[INFO]-[2019/11/19 14:11:02] Total 12000 files processed
+[INFO]-[2019/11/19 14:11:04] Total 12050 files processed
+[INFO]-[2019/11/19 14:11:04] Total 12050 files processed
+[INFO]-[2019/11/19 14:11:07] Total 12100 files processed
+[INFO]-[2019/11/19 14:11:07] Total 12100 files processed
+[INFO]-[2019/11/19 14:11:12] Total 12150 files processed
+[INFO]-[2019/11/19 14:11:12] Total 12150 files processed
+[INFO]-[2019/11/19 14:11:13] Total 12200 files processed
+[INFO]-[2019/11/19 14:11:13] Total 12200 files processed
+[INFO]-[2019/11/19 14:11:16] Total 12250 files processed
+[INFO]-[2019/11/19 14:11:16] Total 12250 files processed
+[INFO]-[2019/11/19 14:11:18] Total 12300 files processed
+[INFO]-[2019/11/19 14:11:18] Total 12300 files processed
+[INFO]-[2019/11/19 14:11:19] Total 12350 files processed
+[INFO]-[2019/11/19 14:11:19] Total 12350 files processed
+[INFO]-[2019/11/19 14:11:25] Total 12400 files processed
+[INFO]-[2019/11/19 14:11:25] Total 12400 files processed
+[INFO]-[2019/11/19 14:11:26] Total 12450 files processed
+[INFO]-[2019/11/19 14:11:26] Total 12450 files processed
+[INFO]-[2019/11/19 14:11:26] Total 12500 files processed
+[INFO]-[2019/11/19 14:11:26] Total 12500 files processed
+[INFO]-[2019/11/19 14:11:29] Total 12550 files processed
+[INFO]-[2019/11/19 14:11:29] Total 12550 files processed
+[INFO]-[2019/11/19 14:11:30] Total 12600 files processed
+[INFO]-[2019/11/19 14:11:30] Total 12600 files processed
+[INFO]-[2019/11/19 14:11:30] Total 12650 files processed
+[INFO]-[2019/11/19 14:11:30] Total 12650 files processed
+[INFO]-[2019/11/19 14:11:33] Total 12700 files processed
+[INFO]-[2019/11/19 14:11:33] Total 12700 files processed
+[INFO]-[2019/11/19 14:11:34] Total 12750 files processed
+[INFO]-[2019/11/19 14:11:34] Total 12750 files processed
+[INFO]-[2019/11/19 14:11:35] Total 12800 files processed
+[INFO]-[2019/11/19 14:11:35] Total 12800 files processed
+[INFO]-[2019/11/19 14:11:35] Total 12850 files processed
+[INFO]-[2019/11/19 14:11:35] Total 12850 files processed
+[INFO]-[2019/11/19 14:11:36] Total 12900 files processed
+[INFO]-[2019/11/19 14:11:36] Total 12900 files processed
+[INFO]-[2019/11/19 14:11:37] Total 12950 files processed
+[INFO]-[2019/11/19 14:11:37] Total 12950 files processed
+[INFO]-[2019/11/19 14:11:38] Total 13000 files processed
+[INFO]-[2019/11/19 14:11:38] Total 13000 files processed
+[INFO]-[2019/11/19 14:11:38] Total 13050 files processed
+[INFO]-[2019/11/19 14:11:38] Total 13050 files processed
+[INFO]-[2019/11/19 14:11:39] Total 13100 files processed
+[INFO]-[2019/11/19 14:11:39] Total 13100 files processed
+[INFO]-[2019/11/19 14:11:40] Total 13150 files processed
+[INFO]-[2019/11/19 14:11:40] Total 13150 files processed
+[INFO]-[2019/11/19 14:11:40] Total 13200 files processed
+[INFO]-[2019/11/19 14:11:40] Total 13200 files processed
+[INFO]-[2019/11/19 14:11:41] Total 13250 files processed
+[INFO]-[2019/11/19 14:11:41] Total 13250 files processed
+[INFO]-[2019/11/19 14:11:41] Total 13300 files processed
+[INFO]-[2019/11/19 14:11:41] Total 13300 files processed
+[INFO]-[2019/11/19 14:11:43] Total 13350 files processed
+[INFO]-[2019/11/19 14:11:43] Total 13350 files processed
+[INFO]-[2019/11/19 14:11:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup_03rd_Jul_2016_10-16AM_Com_7U3bnWjVwO.zip.a75kgY
+[INFO]-[2019/11/19 14:11:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup_03rd_Jul_2016_10-23AM_Com_6pknRO3sc1.zip.ljFefV
+[INFO]-[2019/11/19 14:11:44] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup/database.sql -> /home/communitecco/public_html/stage/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+[INFO]-[2019/11/19 14:11:59] Total 13400 files processed
+[INFO]-[2019/11/19 14:11:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup_03rd_Jul_2016_10-16AM_Com_7U3bnWjVwO.zip.a75kgY
+[INFO]-[2019/11/19 14:11:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup_03rd_Jul_2016_10-23AM_Com_6pknRO3sc1.zip.ljFefV
+[INFO]-[2019/11/19 14:11:44] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/wp-clone/wpclone_backup/database.sql -> /home/communitecco/public_html/stage/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+[INFO]-[2019/11/19 14:11:59] Total 13400 files processed
+[INFO]-[2019/11/19 14:12:04] Total 13450 files processed
+[INFO]-[2019/11/19 14:12:04] Total 13450 files processed
+[INFO]-[2019/11/19 14:12:19] Total 13500 files processed
+[INFO]-[2019/11/19 14:12:19] Total 13500 files processed
+[INFO]-[2019/11/19 14:12:23] Total 13550 files processed
+[INFO]-[2019/11/19 14:12:23] Total 13550 files processed
+[INFO]-[2019/11/19 14:12:24] Total 13600 files processed
+[INFO]-[2019/11/19 14:12:24] Total 13600 files processed
+[INFO]-[2019/11/19 14:12:25] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/COMMUNITEC.010.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/COMMUNITEC.010.jpg
+[INFO]-[2019/11/19 14:12:33] Total 13650 files processed
+[INFO]-[2019/11/19 14:12:25] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/COMMUNITEC.010.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/COMMUNITEC.010.jpg
+[INFO]-[2019/11/19 14:12:33] Total 13650 files processed
+[INFO]-[2019/11/19 14:12:36] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/1.COMMUNITEC.003.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/1.COMMUNITEC.003.jpg
+[INFO]-[2019/11/19 14:12:48] Total 13700 files processed
+[INFO]-[2019/11/19 14:12:36] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/1.COMMUNITEC.003.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/1.COMMUNITEC.003.jpg
+[INFO]-[2019/11/19 14:12:48] Total 13700 files processed
+[INFO]-[2019/11/19 14:12:49] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/COMMUNITEC.003.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/COMMUNITEC.003.jpg
+[INFO]-[2019/11/19 14:12:54] Total 13750 files processed
+[INFO]-[2019/11/19 14:12:49] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/COMMUNITEC.003.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/COMMUNITEC.003.jpg
+[INFO]-[2019/11/19 14:12:54] Total 13750 files processed
+[INFO]-[2019/11/19 14:13:08] Total 13800 files processed
+[INFO]-[2019/11/19 14:13:08] Total 13800 files processed
+[INFO]-[2019/11/19 14:13:13] Total 13850 files processed
+[INFO]-[2019/11/19 14:13:13] Total 13850 files processed
+[INFO]-[2019/11/19 14:13:16] Total 13900 files processed
+[INFO]-[2019/11/19 14:13:16] Total 13900 files processed
+[INFO]-[2019/11/19 14:13:16] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/5.COMMUNITEC.024.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/5.COMMUNITEC.024.jpg
+[INFO]-[2019/11/19 14:13:30] Total 13950 files processed
+[INFO]-[2019/11/19 14:13:16] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2016/06/5.COMMUNITEC.024.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2016/06/5.COMMUNITEC.024.jpg
+[INFO]-[2019/11/19 14:13:30] Total 13950 files processed
+[INFO]-[2019/11/19 14:13:31] Total 14000 files processed
+[INFO]-[2019/11/19 14:13:31] Total 14000 files processed
+[INFO]-[2019/11/19 14:13:31] Total 14050 files processed
+[INFO]-[2019/11/19 14:13:31] Total 14050 files processed
+[INFO]-[2019/11/19 14:13:33] Total 14100 files processed
+[INFO]-[2019/11/19 14:13:33] Total 14100 files processed
+[INFO]-[2019/11/19 14:13:34] Total 14150 files processed
+[INFO]-[2019/11/19 14:13:34] Total 14150 files processed
+[INFO]-[2019/11/19 14:13:34] Total 14200 files processed
+[INFO]-[2019/11/19 14:13:34] Total 14200 files processed
+[INFO]-[2019/11/19 14:13:36] Total 14250 files processed
+[INFO]-[2019/11/19 14:13:36] Total 14250 files processed
+[INFO]-[2019/11/19 14:13:40] Total 14300 files processed
+[INFO]-[2019/11/19 14:13:40] Total 14300 files processed
+[INFO]-[2019/11/19 14:13:44] Total 14350 files processed
+[INFO]-[2019/11/19 14:13:44] Total 14350 files processed
+[INFO]-[2019/11/19 14:13:47] Total 14400 files processed
+[INFO]-[2019/11/19 14:13:47] Total 14400 files processed
+[INFO]-[2019/11/19 14:13:48] Total 14450 files processed
+[INFO]-[2019/11/19 14:13:48] Total 14450 files processed
+[INFO]-[2019/11/19 14:13:51] Total 14500 files processed
+[INFO]-[2019/11/19 14:13:51] Total 14500 files processed
+[INFO]-[2019/11/19 14:13:52] Total 14550 files processed
+[INFO]-[2019/11/19 14:13:52] Total 14550 files processed
+[INFO]-[2019/11/19 14:13:56] Total 14600 files processed
+[INFO]-[2019/11/19 14:13:56] Total 14600 files processed
+[INFO]-[2019/11/19 14:14:02] Total 14650 files processed
+[INFO]-[2019/11/19 14:14:02] Total 14650 files processed
+[INFO]-[2019/11/19 14:14:07] Total 14700 files processed
+[INFO]-[2019/11/19 14:14:07] Total 14700 files processed
+[INFO]-[2019/11/19 14:14:08] Total 14750 files processed
+[INFO]-[2019/11/19 14:14:08] Total 14750 files processed
+[INFO]-[2019/11/19 14:14:09] Total 14800 files processed
+[INFO]-[2019/11/19 14:14:09] Total 14800 files processed
+[INFO]-[2019/11/19 14:14:36] Total 14850 files processed
+[INFO]-[2019/11/19 14:14:36] Total 14850 files processed
+[INFO]-[2019/11/19 14:14:37] Total 14900 files processed
+[INFO]-[2019/11/19 14:14:37] Total 14900 files processed
+[INFO]-[2019/11/19 14:14:44] Total 14950 files processed
+[INFO]-[2019/11/19 14:14:44] Total 14950 files processed
+[INFO]-[2019/11/19 14:14:48] Total 15000 files processed
+[INFO]-[2019/11/19 14:14:48] Total 15000 files processed
+[INFO]-[2019/11/19 14:14:54] Total 15050 files processed
+[INFO]-[2019/11/19 14:14:54] Total 15050 files processed
+[INFO]-[2019/11/19 14:14:58] Total 15100 files processed
+[INFO]-[2019/11/19 14:14:58] Total 15100 files processed
+[INFO]-[2019/11/19 14:15:09] Total 15150 files processed
+[INFO]-[2019/11/19 14:15:09] Total 15150 files processed
+[INFO]-[2019/11/19 14:15:16] Total 15200 files processed
+[INFO]-[2019/11/19 14:15:16] Total 15200 files processed
+[INFO]-[2019/11/19 14:15:19] Total 15250 files processed
+[INFO]-[2019/11/19 14:15:19] Total 15250 files processed
+[INFO]-[2019/11/19 14:15:26] Total 15300 files processed
+[INFO]-[2019/11/19 14:15:26] Total 15300 files processed
+[INFO]-[2019/11/19 14:15:27] Total 15350 files processed
+[INFO]-[2019/11/19 14:15:27] Total 15350 files processed
+[INFO]-[2019/11/19 14:15:28] Total 15400 files processed
+[INFO]-[2019/11/19 14:15:28] Total 15400 files processed
+[INFO]-[2019/11/19 14:15:47] Total 15450 files processed
+[INFO]-[2019/11/19 14:15:47] Total 15450 files processed
+[INFO]-[2019/11/19 14:15:48] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/COMMUNITEC.011.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/COMMUNITEC.011.jpg
+[INFO]-[2019/11/19 14:16:15] Total 15500 files processed
+[INFO]-[2019/11/19 14:15:48] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/COMMUNITEC.011.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/COMMUNITEC.011.jpg
+[INFO]-[2019/11/19 14:16:15] Total 15500 files processed
+[INFO]-[2019/11/19 14:16:27] Total 15550 files processed
+[INFO]-[2019/11/19 14:16:27] Total 15550 files processed
+[INFO]-[2019/11/19 14:16:27] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-2.55.20-PM.png -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-2.55.20-PM.png
+[INFO]-[2019/11/19 14:16:32] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-3.40.22-PM.png -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-3.40.22-PM.png
+[INFO]-[2019/11/19 14:16:37] Total 15600 files processed
+[INFO]-[2019/11/19 14:16:27] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-2.55.20-PM.png -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-2.55.20-PM.png
+[INFO]-[2019/11/19 14:16:32] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-3.40.22-PM.png -> /home/communitecco/public_html/stage/wp-content/uploads/2015/07/Screen-Shot-2558-07-06-at-3.40.22-PM.png
+[INFO]-[2019/11/19 14:16:37] Total 15600 files processed
+[INFO]-[2019/11/19 14:16:49] Total 15650 files processed
+[INFO]-[2019/11/19 14:16:49] Total 15650 files processed
+[INFO]-[2019/11/19 14:17:06] Total 15700 files processed
+[INFO]-[2019/11/19 14:17:06] Total 15700 files processed
+[INFO]-[2019/11/19 14:17:15] Total 15750 files processed
+[INFO]-[2019/11/19 14:17:15] Total 15750 files processed
+[INFO]-[2019/11/19 14:17:22] Total 15800 files processed
+[INFO]-[2019/11/19 14:17:22] Total 15800 files processed
+[INFO]-[2019/11/19 14:17:24] Total 15850 files processed
+[INFO]-[2019/11/19 14:17:24] Total 15850 files processed
+[INFO]-[2019/11/19 14:17:27] Total 15900 files processed
+[INFO]-[2019/11/19 14:17:27] Total 15900 files processed
+[INFO]-[2019/11/19 14:17:28] Total 15950 files processed
+[INFO]-[2019/11/19 14:17:28] Total 15950 files processed
+[INFO]-[2019/11/19 14:17:35] Total 16000 files processed
+[INFO]-[2019/11/19 14:17:35] Total 16000 files processed
+[INFO]-[2019/11/19 14:17:38] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/08/THgarden.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2015/08/THgarden.jpg
+[INFO]-[2019/11/19 14:17:49] Total 16050 files processed
+[INFO]-[2019/11/19 14:17:38] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2015/08/THgarden.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2015/08/THgarden.jpg
+[INFO]-[2019/11/19 14:17:49] Total 16050 files processed
+[INFO]-[2019/11/19 14:18:09] Total 16100 files processed
+[INFO]-[2019/11/19 14:18:09] Total 16100 files processed
+[INFO]-[2019/11/19 14:18:20] Total 16150 files processed
+[INFO]-[2019/11/19 14:18:20] Total 16150 files processed
+[INFO]-[2019/11/19 14:18:27] Total 16200 files processed
+[INFO]-[2019/11/19 14:18:27] Total 16200 files processed
+[INFO]-[2019/11/19 14:18:29] Total 16250 files processed
+[INFO]-[2019/11/19 14:18:29] Total 16250 files processed
+[INFO]-[2019/11/19 14:18:32] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-41.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-41.jpg
+[INFO]-[2019/11/19 14:18:37] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-45.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-45.jpg
+[INFO]-[2019/11/19 14:18:47] Total 16300 files processed
+[INFO]-[2019/11/19 14:18:32] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-41.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-41.jpg
+[INFO]-[2019/11/19 14:18:37] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-45.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-45.jpg
+[INFO]-[2019/11/19 14:18:47] Total 16300 files processed
+[INFO]-[2019/11/19 14:18:49] Total 16350 files processed
+[INFO]-[2019/11/19 14:18:49] Total 16350 files processed
+[INFO]-[2019/11/19 14:18:54] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-38.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-38.jpg
+[INFO]-[2019/11/19 14:18:59] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-32.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-32.jpg
+[INFO]-[2019/11/19 14:19:31] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-62.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-62.jpg
+[INFO]-[2019/11/19 14:19:35] Total 16400 files processed
+[INFO]-[2019/11/19 14:18:54] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-38.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-38.jpg
+[INFO]-[2019/11/19 14:18:59] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-32.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-32.jpg
+[INFO]-[2019/11/19 14:19:31] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/03/Montagu_Sq-62.jpg -> /home/communitecco/public_html/stage/wp-content/uploads/2018/03/Montagu_Sq-62.jpg
+[INFO]-[2019/11/19 14:19:35] Total 16400 files processed
+[INFO]-[2019/11/19 14:19:39] Total 16450 files processed
+[INFO]-[2019/11/19 14:19:39] Total 16450 files processed
+[INFO]-[2019/11/19 14:19:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/11/MiniLuxe-Northpark_HR-0786.jpg
+[INFO]-[2019/11/19 14:19:46] Total 16500 files processed
+[INFO]-[2019/11/19 14:19:44] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/11/MiniLuxe-Northpark_HR-0786.jpg
+[INFO]-[2019/11/19 14:19:46] Total 16500 files processed
+[INFO]-[2019/11/19 14:19:48] Total 16550 files processed
+[INFO]-[2019/11/19 14:19:48] Total 16550 files processed
+[INFO]-[2019/11/19 14:19:50] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/11/MiniLuxe-Northpark_HR-0860.jpg
+[INFO]-[2019/11/19 14:19:50] Total 16600 files processed
+[INFO]-[2019/11/19 14:19:50] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/11/MiniLuxe-Northpark_HR-0860.jpg
+[INFO]-[2019/11/19 14:19:50] Total 16600 files processed
+[INFO]-[2019/11/19 14:19:53] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed-min.pdf -> /home/communitecco/public_html/stage/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed-min.pdf
+[INFO]-[2019/11/19 14:19:54] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed.pdf
+[INFO]-[2019/11/19 14:19:54] Total 16650 files processed
+[INFO]-[2019/11/19 14:19:53] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed-min.pdf -> /home/communitecco/public_html/stage/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed-min.pdf
+[INFO]-[2019/11/19 14:19:54] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/08/Communitec-Brochure-Spread-No-Bleed.pdf
+[INFO]-[2019/11/19 14:19:54] Total 16650 files processed
+[INFO]-[2019/11/19 14:19:56] Total 16700 files processed
+[INFO]-[2019/11/19 14:19:56] Total 16700 files processed
+[INFO]-[2019/11/19 14:20:01] Total 16750 files processed
+[INFO]-[2019/11/19 14:20:01] Total 16750 files processed
+[INFO]-[2019/11/19 14:20:06] Total 16800 files processed
+[INFO]-[2019/11/19 14:20:06] Total 16800 files processed
+[INFO]-[2019/11/19 14:20:07] Total 16850 files processed
+[INFO]-[2019/11/19 14:20:07] Total 16850 files processed
+[INFO]-[2019/11/19 14:20:09] Total 16900 files processed
+[INFO]-[2019/11/19 14:20:09] Total 16900 files processed
+[INFO]-[2019/11/19 14:20:10] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/10/Screenshot-2018-10-29-at-13.22.34.png -> /home/communitecco/public_html/stage/wp-content/uploads/2018/10/Screenshot-2018-10-29-at-13.22.34.png
+[INFO]-[2019/11/19 14:20:16] Total 16950 files processed
+[INFO]-[2019/11/19 14:20:10] Trying to copy big file: /home/communitecco/public_html/wp-content/uploads/2018/10/Screenshot-2018-10-29-at-13.22.34.png -> /home/communitecco/public_html/stage/wp-content/uploads/2018/10/Screenshot-2018-10-29-at-13.22.34.png
+[INFO]-[2019/11/19 14:20:16] Total 16950 files processed
+[INFO]-[2019/11/19 14:20:19] Total 17000 files processed
+[INFO]-[2019/11/19 14:20:19] Total 17000 files processed
+[INFO]-[2019/11/19 14:20:24] Total 17050 files processed
+[INFO]-[2019/11/19 14:20:24] Total 17050 files processed
+[INFO]-[2019/11/19 14:21:02] Total 17100 files processed
+[INFO]-[2019/11/19 14:21:02] Total 17100 files processed
+[INFO]-[2019/11/19 14:21:08] Total 17150 files processed
+[INFO]-[2019/11/19 14:21:08] Total 17150 files processed
+[INFO]-[2019/11/19 14:21:09] Total 17200 files processed
+[INFO]-[2019/11/19 14:21:09] Total 17200 files processed
+[INFO]-[2019/11/19 14:21:11] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/04/8.jpg
+[INFO]-[2019/11/19 14:21:11] Total 17250 files processed
+[INFO]-[2019/11/19 14:21:11] Skipping big file: /home/communitecco/public_html/wp-content/uploads/2018/04/8.jpg
+[INFO]-[2019/11/19 14:21:11] Total 17250 files processed
+[INFO]-[2019/11/19 14:21:16] Total 17300 files processed
+[INFO]-[2019/11/19 14:21:16] Total 17300 files processed
+[INFO]-[2019/11/19 14:21:17] Total 17350 files processed
+[INFO]-[2019/11/19 14:21:17] Total 17350 files processed
+[INFO]-[2019/11/19 14:21:22] Total 17400 files processed
+[INFO]-[2019/11/19 14:21:22] Total 17400 files processed
+[INFO]-[2019/11/19 14:21:23] Skipping big file: /home/communitecco/public_html/wp-content/ai1wm-backups/av.communitec.co-20161116-203117-663.wpress
+[INFO]-[2019/11/19 14:21:23] Total 17450 files processed
+[INFO]-[2019/11/19 14:21:23] Skipping big file: /home/communitecco/public_html/wp-content/ai1wm-backups/av.communitec.co-20161116-203117-663.wpress
+[INFO]-[2019/11/19 14:21:23] Total 17450 files processed
+[INFO]-[2019/11/19 14:21:24] Total 17500 files processed
+[INFO]-[2019/11/19 14:21:24] Total 17500 files processed
+[INFO]-[2019/11/19 14:21:25] Total 17550 files processed
+[INFO]-[2019/11/19 14:21:25] Total 17550 files processed
+[INFO]-[2019/11/19 14:21:27] Total 17600 files processed
+[INFO]-[2019/11/19 14:21:27] Total 17600 files processed
+[INFO]-[2019/11/19 14:21:28] Total 17650 files processed
+[INFO]-[2019/11/19 14:21:28] Total 17650 files processed
+[INFO]-[2019/11/19 14:21:29] Total 17700 files processed
+[INFO]-[2019/11/19 14:21:29] Total 17700 files processed
+[INFO]-[2019/11/19 14:21:32] Total 17750 files processed
+[INFO]-[2019/11/19 14:21:32] Total 17750 files processed
+[INFO]-[2019/11/19 14:21:33] Total 17800 files processed
+[INFO]-[2019/11/19 14:21:33] Total 17800 files processed
+[INFO]-[2019/11/19 14:21:34] Total 17850 files processed
+[INFO]-[2019/11/19 14:21:34] Total 17850 files processed
+[INFO]-[2019/11/19 14:21:39] Total 17900 files processed
+[INFO]-[2019/11/19 14:21:39] Total 17900 files processed
+[INFO]-[2019/11/19 14:21:40] Total 17950 files processed
+[INFO]-[2019/11/19 14:21:40] Total 17950 files processed
+[INFO]-[2019/11/19 14:21:42] Total 18000 files processed
+[INFO]-[2019/11/19 14:21:42] Total 18000 files processed
+[INFO]-[2019/11/19 14:21:44] Total 18050 files processed
+[INFO]-[2019/11/19 14:21:44] Total 18050 files processed
+[INFO]-[2019/11/19 14:21:45] Total 18100 files processed
+[INFO]-[2019/11/19 14:21:45] Total 18100 files processed
+[INFO]-[2019/11/19 14:21:47] Total 18150 files processed
+[INFO]-[2019/11/19 14:21:47] Total 18150 files processed
+[INFO]-[2019/11/19 14:21:48] Total 18200 files processed
+[INFO]-[2019/11/19 14:21:48] Total 18200 files processed
+[INFO]-[2019/11/19 14:22:04] Total 18250 files processed
+[INFO]-[2019/11/19 14:22:04] Total 18250 files processed
+[INFO]-[2019/11/19 14:22:09] Total 18300 files processed
+[INFO]-[2019/11/19 14:22:09] Total 18300 files processed
+[INFO]-[2019/11/19 14:22:11] Total 18350 files processed
+[INFO]-[2019/11/19 14:22:11] Total 18350 files processed
+[INFO]-[2019/11/19 14:22:12] Total 18400 files processed
+[INFO]-[2019/11/19 14:22:12] Total 18400 files processed
+[INFO]-[2019/11/19 14:22:13] Total 18450 files processed
+[INFO]-[2019/11/19 14:22:13] Total 18450 files processed
+[INFO]-[2019/11/19 14:22:14] Total 18500 files processed
+[INFO]-[2019/11/19 14:22:14] Total 18500 files processed
+[INFO]-[2019/11/19 14:22:17] Total 18550 files processed
+[INFO]-[2019/11/19 14:22:17] Total 18550 files processed
+[INFO]-[2019/11/19 14:22:18] Total 18600 files processed
+[INFO]-[2019/11/19 14:22:18] Total 18600 files processed
+[INFO]-[2019/11/19 14:22:23] Total 18650 files processed
+[INFO]-[2019/11/19 14:22:23] Total 18650 files processed
+[WARNING]-[2019/11/19 14:22:25] File doesn't exist /home/communitecco/public_html/
+[WARNING]-[2019/11/19 14:22:25] File doesn't exist /home/communitecco/public_html/
+[INFO]-[2019/11/19 14:22:25] Copying files finished
+[INFO]-[2019/11/19 14:22:25] Copying files finished
+[INFO]-[2019/11/19 14:22:26] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/11/19 14:22:26] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/11/19 14:22:27] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/11/19 14:22:27] Preparing Data Step1: Updating siteurl and homeurl to https://www.communitec.co/stage
+[WARNING]-[2019/11/19 14:22:27] Preparing Data Step1: Skip updating siteurl and homeurl in wpstg0_options. Probably already did! 
+[INFO]-[2019/11/19 14:22:27] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/11/19 14:22:27] Preparing Data Step1: Updating siteurl and homeurl to https://www.communitec.co/stage
+[WARNING]-[2019/11/19 14:22:27] Preparing Data Step1: Skip updating siteurl and homeurl in wpstg0_options. Probably already did! 
+[INFO]-[2019/11/19 14:22:28] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/11/19 14:22:28] Preparing Data Step2: Successful
+[INFO]-[2019/11/19 14:22:28] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/11/19 14:22:28] Preparing Data Step2: Successful
+[INFO]-[2019/11/19 14:22:29] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/11/19 14:22:29] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/11/19 14:22:29] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/11/19 14:22:29] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/11/19 14:22:30] Preparing Data Step5: Updating table_prefix in /home/communitecco/public_html/stage/wp-config.php to wpstg0_
+[INFO]-[2019/11/19 14:22:30] Preparing Data Step5: Updating table_prefix in /home/communitecco/public_html/stage/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:22:33] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/11/19 14:22:33] Preparing Data Step7: Finished successfully
+[INFO]-[2019/11/19 14:22:33] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/11/19 14:22:33] Preparing Data Step7: Finished successfully
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step8: Finished successfully
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step8: Finished successfully
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step9: Finished successfully
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/11/19 14:22:34] Preparing Data Step9: Finished successfully
+[INFO]-[2019/11/19 14:22:35] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://www.communitec.co/stage
+[INFO]-[2019/11/19 14:22:35] Preparing Data Step10: Finished successfully
+[INFO]-[2019/11/19 14:22:35] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://www.communitec.co/stage
+[INFO]-[2019/11/19 14:22:35] Preparing Data Step10: Finished successfully
+[INFO]-[2019/11/19 14:22:36] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://www.communitec.co/stage
+[INFO]-[2019/11/19 14:22:36] Preparing Data Step11: Finished successfully
+[INFO]-[2019/11/19 14:22:36] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://www.communitec.co/stage
+[INFO]-[2019/11/19 14:22:36] Preparing Data Step11: Finished successfully
+[INFO]-[2019/11/19 14:22:37] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/11/19 14:22:37] Preparing Data Step12: Finished successfully
+[INFO]-[2019/11/19 14:22:37] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/11/19 14:22:37] Preparing Data Step12: Finished successfully
+[INFO]-[2019/11/19 14:22:38] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/11/19 14:22:38] Updating upload_path in wpstg0_options. 
+[INFO]-[2019/11/19 14:22:38] Preparing Data Step13: Finished successfully
+[INFO]-[2019/11/19 14:22:38] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/11/19 14:22:38] Updating upload_path in wpstg0_options. 
+[INFO]-[2019/11/19 14:22:38] Preparing Data Step13: Finished successfully
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: Finished successfully
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:39] Preparing Data Step14: Finished successfully
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: Finished successfully
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:40] Preparing Data Step15: Finished successfully
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: Finished successfully
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/11/19 14:22:41] Preparing Data Step16: Finished successfully
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: Finished successfully
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2019/11/19 14:22:42] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/11/19 14:22:46] Finish: Deleting clone job's cache files...
+[INFO]-[2019/11/19 14:22:46] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/11/19 14:22:46] Finish: Verifying existing clones...
+[INFO]-[2019/11/19 14:22:46] Finish: The job finished!
+[INFO]-[2019/11/19 14:22:46] Finish: Deleting clone job's cache files...
+[INFO]-[2019/11/19 14:22:46] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/11/19 14:22:46] Finish: Verifying existing clones...
+[INFO]-[2019/11/19 14:22:46] Finish: The job finished!
