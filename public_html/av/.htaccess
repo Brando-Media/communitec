@@ -1,8 +1,0 @@
-
-# BEGIN WordPress
-<IfModule mod_rewrite.c>
-RewriteEngine on 
-RewriteRule ^(.*)$ http://www.communitec.co/$1 [R=301,L]
-</IfModule>
-
-# END WordPress

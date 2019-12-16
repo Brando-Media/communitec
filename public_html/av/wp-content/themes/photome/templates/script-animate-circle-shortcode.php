@@ -1,9 +1,0 @@
-<?php
-$absolute_path = __FILE__;
-$path_to_file = explode( 'wp-content', $absolute_path );
-$path_to_wp = $path_to_file[0];
-require_once( $path_to_wp.'/wp-load.php' );
-
-header("content-type: application/x-javascript"); 
-?>
-jQuery('#<?php echo esc_js($_GET['id']); ?>').circliful();

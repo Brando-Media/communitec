@@ -1,8 +1,0 @@
-[13-Jun-2016 15:35:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'No captions.css found! This installation is incorrect, please make sure to reupload the Slider Revolution plugin and try again!' in /home/communitecco/public_html/171991/wp-content/plugins/revslider/includes/framework/functions.class.php:16
-Stack trace:
-#0 /home/communitecco/public_html/171991/wp-content/plugins/revslider/includes/operations.class.php(1179): RevSliderFunctions::throwError('No captions.css...')
-#1 /home/communitecco/public_html/171991/wp-content/plugins/revslider/includes/operations.class.php(1192): RevSliderOperations::getCaptionsCssContentArray()
-#2 /home/communitecco/public_html/171991/wp-content/plugins/revslider/public/revslider-front.class.php(460): RevSliderOperations::importCaptionsCssContentArray()
-#3 /home/communitecco/public_html/171991/wp-content/plugins/revslider/public/revslider-front.class.php(200): RevSliderFront::createTable('revslider_css')
-#4 /home/communitecco/public_html/171991/wp-content/plugins/revslider/admin/revslider-admin. in /home/communitecco/public_html/171991/wp-content/plugins/revslider/includes/framework/functions.class.php on line 16
-[27-Jun-2016 11:03:44 UTC] WordPress database error Server shutdown in progress for query SELECT autoload FROM wp_options WHERE option_name = 'rs-templates' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/revslider/revslider.php'), RevSliderAdmin->__construct, RevSliderAdmin->init, RevSliderTemplate->_get_template_list, RevSliderTemplate->update_template_list, RevSliderTemplate->_update_images, RevSliderFunctionsWP::update_option, delete_option

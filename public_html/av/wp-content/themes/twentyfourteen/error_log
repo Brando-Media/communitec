@@ -1,1 +1,0 @@
-[05-Feb-2018 23:13:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/communitecco/public_html/av/wp-content/themes/twentyfourteen/404.php on line 10
