@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "autotask-xero"
-AuthUserFile "/home/communitecco/.htpasswds/public_html/autotask-xero/passwd"
-require valid-user

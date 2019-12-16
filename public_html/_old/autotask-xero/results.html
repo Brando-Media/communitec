@@ -1,8 +1,0 @@
-
-Fatal error: Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://webservices4.autotask.net/ATServices/1.5/atws.wsdl' : failed to load external entity "https://webservices4.autotask.net/ATServices/1.5/atws.wsdl"
- in /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/vendor/autotask-php-master/src/Client.php:130
-Stack trace:
-#0 /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/vendor/autotask-php-master/src/Client.php(130): SoapClient->SoapClient('https://webserv...', Array)
-#1 /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/Integration/Autotask/Config.php(21): ATWS\Client->__construct('https://webserv...', Array)
-#2 /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/Integration/Autotask/Account.php(12): Integration\Autotask\Config::client()
-#3 /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/run.php(10): Integration\Autotask\Account->get_modified in /Users/davidforson/Documents/GitHub/communitec/public_html/_old/autotask-xero/vendor/autotask-php-master/src/Client.php on line 130
