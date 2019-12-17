@@ -630,7 +630,7 @@ if(is_single())
 
     	<div id="logo_transparent" class="logo_container">
 
-    		<div class="logo_align">
+    		<div class="logo_align" style="display:block;">
 
 	    	    <a id="custom_logo_transparent" class="logo_wrapper <?php if(empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
 
