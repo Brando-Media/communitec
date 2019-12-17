@@ -632,7 +632,7 @@ if(is_single())
 
     		<div class="logo_align" style="display:block;">
 
-	    	    <a id="custom_logo_transparent" class="logo_wrapper <?php if(empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
+	    	    <a id="custom_logo_transparent" style="display:flex;" class="logo_wrapper <?php if(empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
 
 	    	    	<?php
 
