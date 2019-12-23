@@ -191,7 +191,6 @@ elseif(is_home())
 			?>
     	
 	    	<!-- Begin side menu -->
-			<a href="#" id="mobile_nav_icon"></a>
 			<!-- End side menu -->
 			
     	</div>
@@ -306,7 +305,7 @@ elseif(is_home())
 			//Check if enable main menu
 			$tg_main_menu = kirki_get_option('tg_main_menu');
 			if(THEMEDEMO && isset($_GET['menu']) && !empty($_GET['menu']))
-			{
+			{ 
 			    $tg_main_menu = false;
 			}
 			
@@ -320,7 +319,7 @@ elseif(is_home())
 	        			<?php 	
 	        				//Check if has custom menu
 	        				if(is_object($post) && $post->post_type == 'page')
-	    					{
+	    					{ 
 	    						$page_menu = get_post_meta($current_page_id, 'page_menu', true);
 	    					}
 	        			
@@ -350,12 +349,14 @@ elseif(is_home())
 	    						            'menu' => $page_menu,
 	    						            'walker' => new tg_walker(),
 	    						            'menu_id'			=> 'main_menu',
-	    		    			        	'menu_class'		=> 'nav',
+	    		    			        	'menu_class'		=> 'nav', 
 	    						        )
 	    						    );
 	    						}
 	    				    }
-	        			?>
+						?>
+					<a href="#" id="mobile_nav_icon"></a>
+
 	        		</div>
 	        	</div>
 	        </div>

@@ -282,7 +282,7 @@ if(is_single())
 
 	<input type="hidden" id="pp_fixed_menu" name="pp_fixed_menu" value="<?php echo esc_attr($tg_fixed_menu); ?>"/>
 
-	<input type="hidden" id="pp_topbar" name="pp_topbar" value="<?php echo esc_attr($tg_topbar); ?>"/>
+	<input type="hidden" id="pp_topbar" name="pp_topbar" value="<?php echo esc_attr($tg_topbar); ?>"/> 
 
 	<input type="hidden" id="post_client_column" name="post_client_column" value="4"/>
 
@@ -307,7 +307,7 @@ if(is_single())
 	<input type="hidden" id="pp_footer_style" name="pp_footer_style" value="<?php echo esc_attr($tg_footer_sidebar); ?>"/>
 
 	
-
+ 
 	<!-- Begin mobile menu -->
 
 	<div class="mobile_menu_wrapper">

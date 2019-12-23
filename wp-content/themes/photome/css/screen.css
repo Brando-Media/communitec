@@ -10230,3 +10230,6 @@ span.wpcf7-not-valid-tip {
 .nofixed #logo_wrapper{
 	display:none;
 }
+#cs1-form{
+	position:sticky;
+}
