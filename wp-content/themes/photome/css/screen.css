@@ -10233,3 +10233,13 @@ span.wpcf7-not-valid-tip {
 #cs1-form{
 	position:sticky;
 }
+
+.nofixed #menu_border_wrapper{
+	position:relative;
+	height:45px;
+}
+
+#mobile_nav_icon{
+	bottom:50%;
+	right:0;
+}
