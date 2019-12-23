@@ -10243,3 +10243,8 @@ span.wpcf7-not-valid-tip {
 	bottom:50%;
 	right:0;
 }
+
+#menu_border_wrapper{
+	height: 45px;
+	position:relative;
+}
