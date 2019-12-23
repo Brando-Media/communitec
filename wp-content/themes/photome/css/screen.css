@@ -10249,3 +10249,8 @@ span.wpcf7-not-valid-tip {
 	height: 45px;
 	position:relative;
 }
+
+#cs1-form {
+    position: fixed!important;
+    z-index: 3;
+}
