@@ -610,7 +610,7 @@ body.admin-bar .header_style_wrapper
 
 .header_style_wrapper.nofixed
 {
-	display: none;
+	display: block;
 }
 
 .top_bar
@@ -10226,4 +10226,7 @@ span.wpcf7-not-valid-tip {
 		height:47px;
 		font-size:12px;
 	}
+}
+.header_style_wrapper #logo_wrapper{
+	display:none;
 }

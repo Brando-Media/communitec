@@ -505,11 +505,14 @@ jQuery(document).ready(function(){
 		   {
 			   if(jQuery(this).scrollTop() >= 200)
 			   {
-			   		jQuery('.header_style_wrapper').addClass('nofixed');
+					   jQuery('.header_style_wrapper').addClass('nofixed');
+					   jQuery('#wrapper').addClass('nofixed');
 			   }
 			   else
 			   {
-			   		jQuery('.header_style_wrapper').removeClass('nofixed');
+					   jQuery('.header_style_wrapper').removeClass('nofixed');
+					   jQuery('#wrapper').removeClass('nofixed');
+
 			   }
 		   }
 		});
