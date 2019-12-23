@@ -10240,8 +10240,9 @@ span.wpcf7-not-valid-tip {
 }
 
 #mobile_nav_icon{
-	bottom:50%;
+	top:15px;
 	right:0;
+	position:absolute;
 }
 
 #menu_border_wrapper{
