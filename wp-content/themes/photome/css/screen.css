@@ -10227,6 +10227,6 @@ span.wpcf7-not-valid-tip {
 		font-size:12px;
 	}
 }
-.header_style_wrapper #logo_wrapper{
+.nofixed #logo_wrapper{
 	display:none;
 }
