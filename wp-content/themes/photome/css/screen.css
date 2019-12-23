@@ -10254,3 +10254,6 @@ span.wpcf7-not-valid-tip {
     position: fixed!important;
     z-index: 3;
 }
+.nofixed #cs1-form{
+	top: 78px; 
+}
