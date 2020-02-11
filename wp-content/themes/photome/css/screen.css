@@ -10276,6 +10276,9 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
 			margin-bottom: -73px;
 			background-position: center;
 			display:block !important;
+			position: absolute;
+			left: 0px;
+			top: -16px;
 		}
 }
 
@@ -10358,4 +10361,8 @@ body #page_caption{
 
 .broadbandtitleh2{
 	padding-top:30px;
+}
+
+.postid-5266 #page_caption{
+	display:none;
 }
