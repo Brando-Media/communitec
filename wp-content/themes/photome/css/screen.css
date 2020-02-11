@@ -536,6 +536,7 @@ blockquote h3
 #logo_wrapper
 {
 	text-align: center;
+	/*padding: 30px 0 30px 0; AK*/
 	padding: 30px 0 30px 0;
 	border-bottom: 1px solid #e1e1e1;
 }
@@ -763,6 +764,12 @@ html[data-style=fullscreen] .top_bar.hasbg, .top_bar.hasbg
 #autocomplete li .post_detail
 {
 	font-size: 10px;
+}
+/*AK - 15-01-2020 Hamburger menu*/
+@media only screen and (min-width: 800px) {
+    #mobile_nav_icon {
+        display: none !important;
+    }
 }
 
 #mobile_nav_icon 
@@ -4239,7 +4246,7 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
 	-webkit-appearance: none;
 }
 
-input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, input.wpcf7-text:focus, .woocommerce table.cart td.actions .coupon .input-text:focus, .woocommerce-page table.cart td.actions .coupon .input-text:focus, .woocommerce #content table.cart td.actions .coupon .input-text:focus, .woocommerce-page #content table.cart td.actions .coupon .input-text:focus, 
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, input.wpcf7-text:focus, .woocommerce table.cart td.actions .coupon .input-text:focus, .woocommerce-page table.cart td.actions .coupon .input-text:focus, .woocommerce #content table.cart td.actions .coupon .input-text:focus, .woocommerce-page #content table.cart td.actions .coupon .input-text:focus 
 {
 	background: #f9f9f9;
 	outline: 0;
@@ -10228,8 +10235,56 @@ span.wpcf7-not-valid-tip {
 	}
 }
 .nofixed #logo_wrapper{
-	display:none;
+	/*display:none;*/
 }
+.nofixed #custom_logo{
+background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    height: 48px;
+    width: 48px;
+    margin-left: 100px;
+    margin-bottom: -73px;
+    background-position: center;
+    
+}
+
+#custom_logo{
+background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    float: left;
+    height: 48px;
+    width: 48px;
+    margin-left: 7%;
+    margin-bottom: -73px;
+    background-position: center;
+    display:block !important;
+}
+
+#logo_wrapper{
+	padding: 0px 0 0px 0 !important;
+}
+
+.nofixed #logo_wrapper .social_wrapper{
+	margin-top: 12px;
+}
+
+#logo_wrapper .social_wrapper {
+	margin-top: 12px;
+	left: 80%;
+}
+
+#cs1-form, #cs1-form2 {
+    width: 100% !important;
+    float: left !important;
+    background: #222 !important;
+    margin-bottom: 20px !important;
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+}
+
 #cs1-form{
 	position:sticky;
 }
@@ -10252,8 +10307,21 @@ span.wpcf7-not-valid-tip {
 
 #cs1-form {
     position: fixed!important;
-    z-index: 3;
+    z-index: 1;
 }
 .nofixed #cs1-form{
-	top: 78px; 
+	top: 45px; 
 }
+#cs1-form{
+	top: 45px; 
+	z-index: 1;
+}
+
+#custom_logo{
+	display: none;
+}
+
+#page_caption{
+    margin-top: 80Px;
+}
+
