@@ -10250,18 +10250,36 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
     
 }
 
-#custom_logo{
-background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)!important;
-    background-size: cover!important;
-    background-repeat: no-repeat!important;
-    float: left;
-    height: 48px;
-    width: 48px;
-    margin-left: 7%;
-    margin-bottom: -73px;
-    background-position: center;
-    display:block !important;
+@media only screen and (max-width: 1200px){
+	#custom_logo{
+		background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)!important;
+			background-size: cover!important;
+			background-repeat: no-repeat!important;
+			float: left;
+			height: 48px;
+			width: 48px;
+			margin-left: 7%;
+			margin-bottom: -73px;
+			background-position: center;
+			display:block !important;
+		}
 }
+@media only screen and (min-width: 1201px){
+	#custom_logo{
+		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/XL-Communitec-Logo-Transparent.png)!important;
+			background-size: cover!important;
+			background-repeat: no-repeat!important;
+			float: left;
+			height: 48px;
+			width: 48px;
+			margin-left: 7%;
+			margin-bottom: -73px;
+			background-position: center;
+			display:block !important;
+		}
+}
+
+
 
 #logo_wrapper{
 	padding: 0px 0 0px 0 !important;
@@ -10281,7 +10299,7 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
     float: left !important;
     background: #222 !important;
     margin-bottom: 20px !important;
-    padding-top: 3px !important;
+    padding-top: 5px !important;
     padding-bottom: 1px !important;
 }
 
