@@ -72,14 +72,13 @@
 	}
 	
 	#logo_wrapper .social_wrapper
-	{   
-	    left: 85%;
-		/*left: 90px; - AK 14/01/2020*/ 
+	{
+		left: 90px;
 	}
 	
 	#logo_right_button
 	{
-		/*right: 90px;*/
+		right: 90px;
 	}
 }
 
