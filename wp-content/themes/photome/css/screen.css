@@ -10377,3 +10377,5 @@ body #page_caption{
 		display:none;
 	}
 }
+
+#logo_wrapper .social_wrapper { display: none; }

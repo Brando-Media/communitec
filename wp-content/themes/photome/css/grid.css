@@ -72,13 +72,14 @@
 	}
 	
 	#logo_wrapper .social_wrapper
-	{
-		left: 90px;
+	{   
+	    left: 85%;
+		/*left: 90px; - AK 14/01/2020*/ 
 	}
 	
 	#logo_right_button
 	{
-		right: 90px;
+		/*right: 90px;*/
 	}
 }
 
@@ -165,7 +166,7 @@
 	.mobile_menu_wrapper { display: block; }
 	#wrapper { padding-top: 80px; }
 	.top_bar { width: 100%; padding: 0; }
-	#logo_wrapper { padding: 20px 0 20px 0; }
+	#logo_wrapper { padding: 20px 0 60px 0; }
 	.logo_container { margin-top: -5px; }
 	.logo_wrapper img { width: auto; max-height: 50px;}
 	.footer_before_widget .footer_logo.logo_wrapper img { max-height: none; margin-top: 0; margin: auto; }
@@ -1090,3 +1091,5 @@
   body { -webkit-text-size-adjust: none; }
   .tg_stats { margin-left: 0; } 
 }
+
+
