@@ -4246,7 +4246,7 @@ input[type=text], input[type=password], input[type=email], input[type=url], inpu
 	-webkit-appearance: none;
 }
 
-input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, input.wpcf7-text:focus, .woocommerce table.cart td.actions .coupon .input-text:focus, .woocommerce-page table.cart td.actions .coupon .input-text:focus, .woocommerce #content table.cart td.actions .coupon .input-text:focus, .woocommerce-page #content table.cart td.actions .coupon .input-text:focus 
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=url]:focus, input[type=date]:focus, input.wpcf7-text:focus, .woocommerce table.cart td.actions .coupon .input-text:focus, .woocommerce-page table.cart td.actions .coupon .input-text:focus, .woocommerce #content table.cart td.actions .coupon .input-text:focus, .woocommerce-page #content table.cart td.actions .coupon .input-text:focus, 
 {
 	background: #f9f9f9;
 	outline: 0;
@@ -9922,7 +9922,7 @@ h1.product_title
 	body:not(.home) #wrapper .top_bar {
 		background:white!important;
 	}
-	#logo_wrapper{
+	.top_bar #logo_wrapper{
 		padding-top:13px;
 	}
 	#logo_right_button {
@@ -10239,7 +10239,7 @@ span.wpcf7-not-valid-tip {
 }
 .nofixed #custom_logo{
 background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png);
-    /*background-size: cover;
+   /* background-size: cover;
     background-repeat: no-repeat;
     float: left;
     height: 48px;
@@ -10279,13 +10279,12 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
 		position: absolute;
 		left: 0px;
 		top: -21px;
+
 		}
 }
 
-
-
 #logo_wrapper{
-	padding: 0px 0 0px 0 !important;
+	padding: 0px 0 0px 0;
 }
 
 .nofixed #logo_wrapper .social_wrapper{
@@ -10316,9 +10315,9 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
 }
 
 #mobile_nav_icon{
-	top:15px;
+	/*top:15px;
 	right:0;
-	position:absolute;
+	position:absolute;*/
 }
 
 #menu_border_wrapper{
@@ -10328,14 +10327,14 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
 
 #cs1-form {
     position: fixed!important;
-    z-index: 2;
+    z-index: 1;
 }
 .nofixed #cs1-form{
 	top: 45px; 
 }
 #cs1-form{
 	top: 45px; 
-	z-index: 1;
+	z-index: 2;
 }
 
 #custom_logo{
