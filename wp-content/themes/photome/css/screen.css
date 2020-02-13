@@ -4828,7 +4828,7 @@ table tr th, table tr td
 #footer_menu li
 {
 	float: left;
-	margin-left: 20px;
+	margin-left: 15px;
 }
 
 #footer_menu li a
@@ -10057,20 +10057,20 @@ h1.product_title
 
 @media only screen and (min-width: 1300px) {
 	.broadcontactformpad{
-		margin-top:7.3%;
+		/*margin-top:7.3%;*/
 	}
 }
 
 @media only screen and (min-width:768px) and (max-width:1299px){
 	.broadcontactformpad{
-		margin-top:4%;
+		/*margin-top:4%;*/
 	}
 }
 
 
 @media only screen and (max-width:767px){
 	.broadcontactformpad{
-		margin-top:7.3%;
+		/*margin-top:7.3%;*/
 	}
 }
 
@@ -10250,7 +10250,7 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
     
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1200px) and (min-width:961px){
 	#custom_logo{
 		background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)!important;
 			background-size: cover!important;
@@ -10282,7 +10282,24 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
 
 		}
 }
+@media only screen and (max-width: 960px){
+	#custom_logo{
+		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/XL-Communitec-Logo-Transparent.png)!important;
+		background-size: cover!important;
+		background-repeat: no-repeat!important;
+		float: left;
+		height: 65px;
+		width: 200px;
+		margin-left: 7%;
+		margin-bottom: -73px;
+		background-position: center;
+		display: block !important;
+		position: absolute;
+		left: 0px;
+		top: -21px;
 
+		}
+}
 #logo_wrapper{
 	padding: 0px 0 0px 0;
 }
@@ -10359,7 +10376,7 @@ body #page_caption{
 }
 
 .broadbandtitleh2{
-	padding-top:30px;
+	padding-top:45px;
 }
 
 .postid-5266 #page_caption{
@@ -10379,3 +10396,28 @@ body #page_caption{
 }
 
 #logo_wrapper .social_wrapper { display: none; }
+
+.postid-5266 .withsmallpadding{
+	padding-bottom:5px!important;
+}
+
+@media only screen and (max-width: 963px){
+	.broadbandtitleh2 {
+		padding-top:0px!important;
+	}
+}
+
+
+#sbi_images{
+	padding-top:0px!important;
+}
+
+.sb_instagram_header{
+	padding-bottom:0px!important;
+}
+
+.menu-primary-menu-container #sub_menu #menu-item-4432 a:first-line { line-height: 3em; }
+.menu-primary-menu-container #sub_menu #menu-item-4432 a { line-height: 0px; }
+
+.menu-primary-menu-container #sub_menu #menu-item-4437 a:first-line { line-height: 3em; }
+.menu-primary-menu-container #sub_menu #menu-item-4437 a { line-height: 0px; }
