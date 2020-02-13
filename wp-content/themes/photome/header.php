@@ -572,6 +572,76 @@ if(is_single())
 
 		    	    ?>
 
+				</a>
+				<a id="custom_phone" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
+
+	    	    	<?php
+
+						if($image_width > 0 && $image_height > 0)
+
+						{
+
+					?>
+
+					<img src="<?php echo esc_url($tg_retina_logo); ?>" alt="<?php esc_attr(get_bloginfo('name')); ?>" width="<?php echo esc_attr($image_width); ?>" height="<?php echo esc_attr($image_height); ?>"/>
+
+					
+
+					<?php
+
+						}
+
+						else
+
+						{
+
+					?>
+
+	    	    	<img src="<?php echo esc_url($tg_retina_logo); ?>" alt="<?php esc_attr(get_bloginfo('name')); ?>" width="154" height="59"/>
+
+	    	    
+
+	    	    	<?php 
+
+		    	    	}
+
+		    	    ?>
+
+				</a>
+				<a target="_blank" id="custom_email" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
+
+	    	    	<?php
+
+						if($image_width > 0 && $image_height > 0)
+
+						{
+
+					?>
+
+					<img src="<?php echo esc_url($tg_retina_logo); ?>" alt="<?php esc_attr(get_bloginfo('name')); ?>" width="<?php echo esc_attr($image_width); ?>" height="<?php echo esc_attr($image_height); ?>"/>
+
+					
+
+					<?php
+
+						}
+
+						else
+
+						{
+
+					?>
+
+	    	    	<img src="<?php echo esc_url($tg_retina_logo); ?>" alt="<?php esc_attr(get_bloginfo('name')); ?>" width="154" height="59"/>
+
+	    	    
+
+	    	    	<?php 
+
+		    	    	}
+
+		    	    ?>
+
 	    	    </a>
 
     		</div>

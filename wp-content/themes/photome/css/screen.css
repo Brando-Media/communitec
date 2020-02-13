@@ -10421,3 +10421,36 @@ body #page_caption{
 
 .menu-primary-menu-container #sub_menu #menu-item-4437 a:first-line { line-height: 3em; }
 .menu-primary-menu-container #sub_menu #menu-item-4437 a { line-height: 0px; }
+
+@media only screen and (max-width: 960px){
+	#custom_email{
+		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/btncall.png)!important;
+		background-size: cover!important;
+		background-repeat: no-repeat!important;
+		float: left;
+		height: 65px;
+		width: 200px;
+		margin-left: 7%;
+		margin-bottom: -73px;
+		background-position: center;
+		display: block !important;
+		position: absolute;
+		left: 0px;
+		top: -21px;
+	}
+	#custom_phone{
+		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/btncall.png)!important;
+		background-size: cover!important;
+		background-repeat: no-repeat!important;
+		float: left;
+		height: 65px;
+		width: 200px;
+		margin-left: 7%;
+		margin-bottom: -73px;
+		background-position: center;
+		display: block !important;
+		position: absolute;
+		left: 0px;
+		top: -21px;
+	}
+}
