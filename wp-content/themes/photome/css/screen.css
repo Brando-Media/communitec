@@ -553,14 +553,15 @@ html[data-style=fullscreen] #logo_wrapper, .top_bar.hasbg #logo_wrapper
 
 .logo_container
 {
-	display: table;
+	display: flex;
 	width: 100%;
 	height: 100%;
 }
 
 .logo_align
 {
-	display: table-cell;
+	/*display: table-cell;*/
+	display:flex;
 	vertical-align: middle;
 }
 
@@ -897,14 +898,13 @@ body.js_nav .mobile_menu_wrapper, html[data-menu=leftmenu] body.js_nav .mobile_m
 	-webkit-overflow-scrolling: touch;
 }
 
-#close_mobile_menu
-{
-	font-size: 22px;
-	display: inline-block;
-	position: absolute;
-	right: 30px;
-	top: 28px;
-	top: 38px;
+#close_mobile_menu {
+    font-size: 22px;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 28px;
+    top: 0px;
 }
 
 #close_mobile_menu:hover
@@ -9926,7 +9926,7 @@ h1.product_title
 		padding-top:13px;
 	}
 	#logo_right_button {
-		padding-top:17px;
+		padding-top:0px;
 	}
 }
 
@@ -10401,7 +10401,7 @@ body #page_caption{
 	padding-bottom:5px!important;
 }
 
-@media only screen and (max-width: 963px){
+@media only screen and (max-width: 960px){
 	.broadbandtitleh2 {
 		padding-top:0px!important;
 	}
@@ -10423,34 +10423,89 @@ body #page_caption{
 .menu-primary-menu-container #sub_menu #menu-item-4437 a { line-height: 0px; }
 
 @media only screen and (max-width: 960px){
-	#custom_email{
+	#custom_email {
 		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/btncall.png)!important;
 		background-size: cover!important;
 		background-repeat: no-repeat!important;
 		float: left;
-		height: 65px;
-		width: 200px;
+		height: 25px;
+		width: 80px;
 		margin-left: 7%;
 		margin-bottom: -73px;
 		background-position: center;
 		display: block !important;
 		position: absolute;
-		left: 0px;
-		top: -21px;
+		left: 103px;
+		top: 44px;
 	}
-	#custom_phone{
+	#custom_phone {
 		background: url(https://stage.communitec.co/wp-content/uploads/2020/02/btncall.png)!important;
 		background-size: cover!important;
 		background-repeat: no-repeat!important;
 		float: left;
-		height: 65px;
-		width: 200px;
+		height: 25px;
+		width: 80px;
 		margin-left: 7%;
 		margin-bottom: -73px;
 		background-position: center;
 		display: block !important;
 		position: absolute;
-		left: 0px;
-		top: -21px;
+		left: 17px;
+		top: 44px;
 	}
+}
+
+.home #custom_email {
+	display:none!important;
+}
+.home #custom_phone {
+	display:none!important;
+}
+
+#button-body{
+	bottom:35px;
+}
+
+.mobile #button {
+	bottom: 43px!important;
+}
+
+@media only screen and (max-width: 767px){
+	.page-id-4349 #wrapper .ppb_wrapper {
+		padding: 0 30px 0 30px!important;
+		box-sizing: border-box;
+	}
+	.page-id-4349 #wrapper .ppb_wrapper p{
+		text-align: left!important;
+	}
+}
+
+#menu_back{
+	color:black!important;
+	font-weight:900!important;
+}
+
+@media only screen and (min-width: 750px) {
+	.cs-form-gr{
+		width: 19%!important;
+		float: left!important;
+		height: auto!important;
+		padding: 0 0.5%!important;
+		margin-bottom: 0px!important;
+	}
+	#wrapper #cs1-form {
+		display:block!important;
+	}
+	#wrapper #wpcf7-f4366-o1 {
+		display:block!important;
+	}
+}
+
+
+.home #wrapper #cs1-form, .home #wrapper #cs1-form2 {
+    display: none !important;
+}
+
+.home .top_bar {
+	display:block!important;
 }

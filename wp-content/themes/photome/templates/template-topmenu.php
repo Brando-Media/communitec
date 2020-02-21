@@ -248,12 +248,12 @@ elseif(is_home())
 		    	    	}
 		    	    ?>
 	    	    </a>
-					    	    <a id="custom_phone" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
+					<!--	<a id="custom_phone" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="tel:+442037008585">
 	    	    	
-	    	    </a>
-					    	    <a id="custom_email" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
-	    
-	    	    </a>
+					</a>
+									<a id="custom_email" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="mailto:info@communitec.co">
+			
+					</a>-->
     		</div>
     	</div>
     	<?php

@@ -282,7 +282,7 @@ if(is_single())
 
 	<input type="hidden" id="pp_fixed_menu" name="pp_fixed_menu" value="<?php echo esc_attr($tg_fixed_menu); ?>"/>
 
-	<input type="hidden" id="pp_topbar" name="pp_topbar" value="<?php echo esc_attr($tg_topbar); ?>"/>
+	<input type="hidden" id="pp_topbar" name="pp_topbar" value="<?php echo esc_attr($tg_topbar); ?>"/> 
 
 	<input type="hidden" id="post_client_column" name="post_client_column" value="4"/>
 
@@ -307,7 +307,7 @@ if(is_single())
 	<input type="hidden" id="pp_footer_style" name="pp_footer_style" value="<?php echo esc_attr($tg_footer_sidebar); ?>"/>
 
 	
-
+ 
 	<!-- Begin mobile menu -->
 
 	<div class="mobile_menu_wrapper">
@@ -330,9 +330,14 @@ if(is_single())
 
     	    } ?>
 
-    	    
+    	    <a href="tel:+442037008585">
+				<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/Mobile-Call-us-button-1.png" style="height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+			</a>
+			<a href="mailto:info@communitec.co">
+	    		<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/Mobile-Email-us-Button-1.png" style="padding-top:20px; height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+	    	</a>
 
-    	   <img src="<?php bloginfo('url') ?>/wp-content/uploads/2019/06/cmblackdone.png" style="height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+
 
     	   
 
@@ -538,7 +543,7 @@ if(is_single())
 
     		<div class="logo_align">
 
-	    	    <a id="custom_logo" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
+	    	    <a id="custom_logo" class="zxc logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
 
 	    	    	<?php
 
@@ -572,7 +577,7 @@ if(is_single())
 
 		    	    ?>
 
-				</a>
+	    	    </a>
 				<a id="custom_phone" class="logo_wrapper <?php if(!empty($page_menu_transparent)) { ?>hidden<?php } else { ?>default<?php } ?>" href="<?php echo home_url(); ?>">
 
 	    	    	<?php
@@ -794,13 +799,13 @@ if(is_single())
 
 			    ?>
 
-		<img src="<?php bloginfo('url') ?>/wp-content/uploads/2017/03/logos-for-menu.jpg" style="margin-bottom:10px; margin-top:-50px; width:40%;"/>
+		<!--<img src="<?php bloginfo('url') ?>/wp-content/uploads/2017/03/logos-for-menu.jpg" style="margin-bottom:10px; margin-top:-50px; width:40%;"/>-->
 
 		<ul style="list-style: none; color: #666666;"><li class="has-label"><strong>Email</strong><br><div><a 
 
 		href="mailto:info@communitec.co;" style="color: #666666;">info@communitec.co</a></div></li><li 
 
-		class="has-label"><strong>Phone</strong><br><div><span class="number">+44 (0) 203-700-8585</span></div></li><li 
+		class="has-label"><strong>Phone</strong><br><div><a href="tel:+442037008585;" style="color: #666666;" class="number">+44 (0) 203-700-8585</a></div></li><li 
 
 		class="has-label"><strong>Address</strong><br><div>79a York 
 
@@ -846,7 +851,7 @@ if(is_single())
 
 		    
 
-		        </div> 
+		        </div>
 
 			</div>
 
@@ -871,6 +876,3 @@ if(is_single())
 	    //Get main menu layout
 
 		get_template_part("/templates/template-topmenu");
-
-	?>
-
