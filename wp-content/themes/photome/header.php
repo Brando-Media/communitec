@@ -330,13 +330,12 @@ if(is_single())
 
     	    } ?>
 
-    	    <a href="tel:+442037008585">
-				<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/Mobile-Call-us-button-1.png" style="height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+			<a class="btnhdstyle" href="tel:+442037008585" style="display:block;margin-bottom: 22px;">CALL US
+				<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/Black-Phone.png" style="height:auto; width:100%; max-width: 32px; padding-left:16px;"/>
 			</a>
-			<a href="mailto:info@communitec.co">
-	    		<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/Mobile-Email-us-Button-1.png" style="padding-top:20px; height:auto; width:100%; margin-bottom:-10px; max-width: 260px"/>
+			<a class="btnhdstyle" href="mailto:info@communitec.co">EMAIL US
+	    		<img src="<?php bloginfo('url') ?>/wp-content/uploads/2020/02/black-envelope-w-1.png" style="padding-top:20px; height:auto; width:100%; max-width: 32px; padding-left:6px; position:absolute; top:-25px;"/>
 	    	</a>
-
 
 
     	   

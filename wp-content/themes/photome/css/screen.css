@@ -10319,7 +10319,7 @@ background: url(https://www.communitec.co/wp-content/uploads/2018/03/LOGO_C.png)
     background: #222 !important;
     margin-bottom: 20px !important;
     padding-top: 13.5px !important;
-    padding-bottom: 9px !important;
+    padding-bottom: 12px !important;
 }
 
 #cs1-form{
@@ -10508,4 +10508,71 @@ body #page_caption{
 
 .home .top_bar {
 	display:block!important;
+}
+
+.home .logo_container {
+	display:table!important;
+}
+
+.home .logo_align {
+	display: table-cell!important;
+}
+
+@media only screen and (min-width: 961px) {
+	.single-portfolios #page_caption{
+		margin-top:70px;
+	}	
+}
+
+@media only screen and (min-width: 768px) and (max-width:960px) {
+	.single-portfolios #page_caption{
+		margin-top:44px;
+	}	
+}
+
+@media screen and (max-width: 963px){
+	#wpcf7-f4366-o1 .cs-form-hl {
+		width: 92%!important;
+	}
+}
+
+@media screen and (min-width: 961px){
+	#cs1-form {
+		z-index: 8!important;
+	}		
+}
+
+@media only screen and (max-width: 450px){
+	.page-id-4349 .standard_wrapper{
+		padding-left:0px!important;
+		padding-right:0px!important;
+	}
+	.page-id-4349 .portfolio-links li:nth-child(2) {
+		margin: 0 9px!important;
+	}
+}
+
+@media only screen and (max-width: 1300px){
+	body #cs1-form, #cs1-form2 {
+		padding-bottom: 12px !important;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	body #tidio-chat iframe {
+		bottom: 100px !important;
+	}
+}
+
+body .mobile_menu_wrapper .btnhdstyle{
+	color: #666666;
+	font-family: Lato, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: underline;
+}
+
+body .mobile_menu_wrapper .btnhdstyle:hover{
+	color: #222222;
 }
